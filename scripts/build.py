@@ -64,10 +64,15 @@ for lang in ("pt-BR","en-US"):
         (ROOT/"news"/f"{s}-{k}.html").write_text(shell(title,article,lang,summary,prefix="../",canonical=f"{SITE_BASE}/news/{s}-{k}.html"),"utf-8")
     (ROOT/f"news-{k}.html").write_text(shell("Últimas notícias de CS2" if pt else "Latest CS2 News",f'<div class="pagehead"><span class="eyebrow">{"COBERTURA" if pt else "COVERAGE"}</span><h1>{"Últimas notícias de CS2" if pt else "Latest CS2 News"}</h1></div><div class="articlegrid">{"".join(cards)}</div>',lang,prefix="",canonical=f"{SITE_BASE}/news-{k}.html"),"utf-8")
 
+    top_team_names={r["team"] for r in DATA.get("rankings",[])[:120]}
     rankbody=""
     for region,label in [("global","Global"),("americas","Américas" if pt else "Americas"),("europe","Europa" if pt else "Europe"),("asia","Ásia" if pt else "Asia")]:
         rr=DATA.get("regional_rankings",{}).get(region,DATA.get("rankings",[]) if region=="global" else [])
-        rows="".join(f'<tr><td class="rank">{r["rank"]}</td><td><a href="teams/{slug(r["team"])}-{k}.html"><b>{esc(r["team"])}</b></a></td><td>{r["points"]}</td><td>{movement(r,pt) if region=="global" else "—"}</td></tr>' for r in rr)
+        rows=[]
+        for r in rr:
+            team_html=f'<a href="teams/{slug(r["team"])}-{k}.html"><b>{esc(r["team"])}</b></a>' if r["team"] in top_team_names else f'<b>{esc(r["team"])}</b>'
+            rows.append(f'<tr><td class="rank">{r["rank"]}</td><td>{team_html}</td><td>{r["points"]}</td><td>{movement(r,pt) if region=="global" else "—"}</td></tr>')
+        rows="".join(rows)
         rankbody+=f'<section class="rankingsection" id="{region}"><div class="sectiontitle"><h2>{label}</h2><span class="source">{esc(DATA.get("ranking_"+region+"_date",""))}</span></div><div class="card tablecard"><table class="table"><thead><tr><th>#</th><th>{"Time" if pt else "Team"}</th><th>{"Pontos" if pt else "Points"}</th><th>Δ</th></tr></thead><tbody>{rows}</tbody></table></div></section>'
     ranknav='<div class="subnav"><a href="#global">Global</a><a href="#americas">Americas</a><a href="#europe">Europe</a><a href="#asia">Asia</a></div>'
     (ROOT/f"rankings-{k}.html").write_text(shell("Ranking CS2 da Valve" if pt else "Valve CS2 Rankings",f'<div class="pagehead"><span class="eyebrow">VRS</span><h1>{"Ranking oficial da Valve" if pt else "Official Valve Rankings"}</h1><p>{"Snapshots oficiais com comparação de posição e rosters registrados." if pt else "Official snapshots with rank movement and registered rosters."}</p></div>{ranknav}{rankbody}',lang,prefix="",canonical=f"{SITE_BASE}/rankings-{k}.html"),"utf-8")
