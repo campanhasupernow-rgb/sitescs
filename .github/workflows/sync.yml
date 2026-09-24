@@ -1,0 +1,29 @@
+name: Sync CS2 data
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Sync data and rebuild
+        env:
+          PANDASCORE_TOKEN: ${{ secrets.PANDASCORE_TOKEN }}
+          SITE_BASE: https://campanhasupernow-rgb.github.io/sitescs
+        run: |
+          python scripts/sync.py
+          python scripts/build.py
+      - name: Commit generated updates
+        run: |
+          git config user.name "cs2news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ news/ teams/ players/ tournaments/ matches/ *.html sitemap.xml robots.txt
+          git diff --cached --quiet || git commit -m "chore: sync CS2 data"
+          git push
