@@ -2570,5 +2570,28 @@
       }
     }
   ],
-  "matches": []
+  "matches": [],
+  "news_pt": [
+    {
+      "category": "ATUALIZAÇÃO",
+      "title": "Valve publica nova atualização para Counter-Strike 2",
+      "summary": "O CS2 recebeu uma nova atualização oficial. O portal acompanha as mudanças publicadas pela Valve e organiza as principais novidades para o público brasileiro.",
+      "date": "24/09/2026",
+      "source": "Counter-Strike / Steam"
+    },
+    {
+      "category": "RANKING",
+      "title": "Spirit lidera o ranking global da Valve e FURIA aparece no top 10",
+      "summary": "A classificação global mais recente da Valve coloca Spirit na liderança e mantém a FURIA entre as dez melhores equipes do mundo.",
+      "date": "24/09/2026",
+      "source": "Valve Regional Standings"
+    },
+    {
+      "category": "CAMPEONATOS",
+      "title": "Portal reúne calendário, rankings e cobertura competitiva de CS2",
+      "summary": "CS2 NOTÍCIAS centraliza campeonatos, resultados, rankings, times, jogadores e atualizações do cenário competitivo em uma única plataforma.",
+      "date": "24/09/2026",
+      "source": "CS2 NOTÍCIAS"
+    }
+  ]
 }
