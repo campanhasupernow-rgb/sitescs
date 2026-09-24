@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "site.json"
-UA = {"User-Agent": "CS2NEWS/0.3"}
+UA = {"User-Agent": "CS2NEWS/0.4"}
 
 def get_json(url, headers=None):
     h = dict(UA)
