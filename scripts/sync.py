@@ -213,7 +213,7 @@ def build_editorial(d):
             "source_url": d.get("ranking_source", ""),
         })
 
-        movers = [x for x in rankings[:60] if x.get("previous_rank") and x.get("rank_delta")]
+        movers = [x for x in rankings[:40] if x.get("previous_rank") and x.get("rank_delta") and x.get("previous_rank") <= 100]
         if movers:
             biggest = max(movers, key=lambda x: abs(x["rank_delta"]))
             direction_en = "climbs" if biggest["rank_delta"] > 0 else "drops"
