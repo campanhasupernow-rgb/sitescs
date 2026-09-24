@@ -1,4 +1,4 @@
-name: Sync CS2 data
+name: Sync, validate and deploy CS2 portal
 on:
   schedule:
     - cron: '*/30 * * * *'
@@ -10,8 +10,16 @@ on:
       - '.github/workflows/sync.yml'
 permissions:
   contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: cs2-sync-deploy
+  cancel-in-progress: true
 jobs:
   sync:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,7 +37,18 @@ jobs:
           python scripts/build.py
           python scripts/validate.py
           node --check assets/app.js
-      - name: Commit data changes
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy synchronized portal
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Commit synchronized source data
         run: |
           git config user.name "cs2news-bot"
           git config user.email "actions@users.noreply.github.com"
