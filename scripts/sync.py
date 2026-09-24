@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# sync-revision: 3
+# sync-revision: 4
 from __future__ import annotations
 import hashlib
 import json
