@@ -1,1 +1,2574 @@
-{"generated_at":"2026-09-24T19:30:00Z","rankings":[{"rank":1,"points":2031,"team":"Spirit","region":"Global"},{"rank":2,"points":1902,"team":"MOUZ","region":"Global"},{"rank":3,"points":1881,"team":"Falcons","region":"Global"},{"rank":4,"points":1846,"team":"FUT","region":"Global"},{"rank":5,"points":1841,"team":"Vitality","region":"Global"},{"rank":6,"points":1783,"team":"Legacy","region":"Global"},{"rank":7,"points":1754,"team":"FURIA","region":"Global"},{"rank":8,"points":1723,"team":"G2","region":"Global"},{"rank":9,"points":1606,"team":"9z","region":"Global"},{"rank":10,"points":1599,"team":"FaZe","region":"Global"}],"events":[{"name":"Stake Pulse Beat II","status":"live","dates":{"pt":"21 a 26 de setembro","en":"Sep 21–26"},"location":"Stockholm, Sweden","prize":60000},{"name":"1win Private Club Season 1","status":"upcoming","dates":{"pt":"25 a 28 de setembro","en":"Sep 25–28"},"location":"Belgrade, Serbia","prize":100000},{"name":"ESL Pro League Season 24","status":"upcoming","dates":{"pt":"3 a 11 de outubro","en":"Oct 3–11"},"location":"TBD","prize":1000000}],"news":[{"category":{"pt":"ATUALIZAÇÃO","en":"UPDATE"},"title":{"pt":"Valve atualiza o CS2 com correções e ajustes técnicos","en":"Valve updates CS2 with fixes and technical adjustments"},"summary":{"pt":"O portal acompanha os comunicados oficiais de Counter-Strike 2 e transforma as atualizações em páginas editoriais estruturadas.","en":"The portal tracks official Counter-Strike 2 notices and turns updates into structured editorial pages."},"date":"24/09/2026","source":"Valve / Steam"},{"category":{"pt":"RANKING","en":"RANKING"},"title":{"pt":"Spirit lidera o ranking global da Valve; FURIA aparece no top 10","en":"Spirit leads Valve global standings; FURIA sits inside the top 10"},"summary":{"pt":"O ranking global da Valve alimenta automaticamente as páginas de ranking e times do portal.","en":"Valve global standings automatically feed the portal's rankings and team pages."},"date":"24/09/2026","source":"Valve Regional Standings"},{"category":{"pt":"CAMPEONATOS","en":"TOURNAMENTS"},"title":{"pt":"Agenda competitiva reúne eventos regionais e internacionais","en":"Competitive calendar brings together regional and international events"},"summary":{"pt":"Campeonatos, partidas e resultados serão centralizados em uma única camada de dados.","en":"Tournaments, fixtures and results are centralized in one shared data layer."},"date":"24/09/2026","source":"CS2NEWS"}],"ticker":[{"label":{"pt":"VRS","en":"VRS"},"value":{"pt":"Spirit #1 · FURIA #7","en":"Spirit #1 · FURIA #7"}},{"label":{"pt":"AO VIVO","en":"LIVE"},"value":{"pt":"Stake Pulse Beat II","en":"Stake Pulse Beat II"}},{"label":{"pt":"PORTAL","en":"PORTAL"},"value":{"pt":"Atualização automática ativa","en":"Automated updates enabled"}}],"matches":[]}
+{
+  "generated_at": "2026-09-24T19:46:53.587143+00:00",
+  "rankings": [
+    {
+      "rank": 1,
+      "points": 2031,
+      "team": "Spirit",
+      "region": "Global"
+    },
+    {
+      "rank": 2,
+      "points": 1902,
+      "team": "MOUZ",
+      "region": "Global"
+    },
+    {
+      "rank": 3,
+      "points": 1881,
+      "team": "Falcons",
+      "region": "Global"
+    },
+    {
+      "rank": 4,
+      "points": 1846,
+      "team": "FUT",
+      "region": "Global"
+    },
+    {
+      "rank": 5,
+      "points": 1841,
+      "team": "Vitality",
+      "region": "Global"
+    },
+    {
+      "rank": 6,
+      "points": 1783,
+      "team": "Legacy",
+      "region": "Global"
+    },
+    {
+      "rank": 7,
+      "points": 1754,
+      "team": "FURIA",
+      "region": "Global"
+    },
+    {
+      "rank": 8,
+      "points": 1723,
+      "team": "G2",
+      "region": "Global"
+    },
+    {
+      "rank": 9,
+      "points": 1606,
+      "team": "9z",
+      "region": "Global"
+    },
+    {
+      "rank": 10,
+      "points": 1599,
+      "team": "FaZe",
+      "region": "Global"
+    },
+    {
+      "rank": 11,
+      "points": 1579,
+      "team": "Natus Vincere",
+      "region": "Global"
+    },
+    {
+      "rank": 12,
+      "points": 1552,
+      "team": "Aurora",
+      "region": "Global"
+    },
+    {
+      "rank": 13,
+      "points": 1515,
+      "team": "B8",
+      "region": "Global"
+    },
+    {
+      "rank": 14,
+      "points": 1502,
+      "team": "Inner Circle",
+      "region": "Global"
+    },
+    {
+      "rank": 15,
+      "points": 1499,
+      "team": "BETBOOM",
+      "region": "Global"
+    },
+    {
+      "rank": 16,
+      "points": 1480,
+      "team": "BIG",
+      "region": "Global"
+    },
+    {
+      "rank": 17,
+      "points": 1465,
+      "team": "Liquid",
+      "region": "Global"
+    },
+    {
+      "rank": 18,
+      "points": 1461,
+      "team": "PARIVISION",
+      "region": "Global"
+    },
+    {
+      "rank": 19,
+      "points": 1460,
+      "team": "The MongolZ",
+      "region": "Global"
+    },
+    {
+      "rank": 20,
+      "points": 1446,
+      "team": "Astralis",
+      "region": "Global"
+    },
+    {
+      "rank": 21,
+      "points": 1408,
+      "team": "MIBR",
+      "region": "Global"
+    },
+    {
+      "rank": 22,
+      "points": 1402,
+      "team": "Alliance",
+      "region": "Global"
+    },
+    {
+      "rank": 23,
+      "points": 1402,
+      "team": "magic",
+      "region": "Global"
+    },
+    {
+      "rank": 24,
+      "points": 1379,
+      "team": "HEROIC",
+      "region": "Global"
+    },
+    {
+      "rank": 25,
+      "points": 1371,
+      "team": "HOTU",
+      "region": "Global"
+    },
+    {
+      "rank": 26,
+      "points": 1364,
+      "team": "TYLOO",
+      "region": "Global"
+    },
+    {
+      "rank": 27,
+      "points": 1347,
+      "team": "100 Thieves",
+      "region": "Global"
+    },
+    {
+      "rank": 28,
+      "points": 1345,
+      "team": "GamerLegion",
+      "region": "Global"
+    },
+    {
+      "rank": 29,
+      "points": 1338,
+      "team": "Ninjas in Pyjamas",
+      "region": "Global"
+    },
+    {
+      "rank": 30,
+      "points": 1331,
+      "team": "Betclic",
+      "region": "Global"
+    },
+    {
+      "rank": 31,
+      "points": 1314,
+      "team": "1win",
+      "region": "Global"
+    },
+    {
+      "rank": 32,
+      "points": 1313,
+      "team": "JiJieHao",
+      "region": "Global"
+    },
+    {
+      "rank": 33,
+      "points": 1310,
+      "team": "fnatic",
+      "region": "Global"
+    },
+    {
+      "rank": 34,
+      "points": 1301,
+      "team": "DENDELE",
+      "region": "Global"
+    },
+    {
+      "rank": 35,
+      "points": 1298,
+      "team": "3DMAX",
+      "region": "Global"
+    },
+    {
+      "rank": 36,
+      "points": 1290,
+      "team": "EYEBALLERS",
+      "region": "Global"
+    },
+    {
+      "rank": 37,
+      "points": 1283,
+      "team": "K27",
+      "region": "Global"
+    },
+    {
+      "rank": 38,
+      "points": 1276,
+      "team": "BC.Game",
+      "region": "Global"
+    },
+    {
+      "rank": 39,
+      "points": 1274,
+      "team": "Lynn Vision",
+      "region": "Global"
+    },
+    {
+      "rank": 40,
+      "points": 1270,
+      "team": "Virtus.pro",
+      "region": "Global"
+    },
+    {
+      "rank": 41,
+      "points": 1269,
+      "team": "M80",
+      "region": "Global"
+    },
+    {
+      "rank": 42,
+      "points": 1268,
+      "team": "paiN",
+      "region": "Global"
+    },
+    {
+      "rank": 43,
+      "points": 1241,
+      "team": "Nuclear TigeRES",
+      "region": "Global"
+    },
+    {
+      "rank": 44,
+      "points": 1228,
+      "team": "Luminosity",
+      "region": "Global"
+    },
+    {
+      "rank": 45,
+      "points": 1228,
+      "team": "Nemesis",
+      "region": "Global"
+    },
+    {
+      "rank": 46,
+      "points": 1221,
+      "team": "Acend",
+      "region": "Global"
+    },
+    {
+      "rank": 47,
+      "points": 1206,
+      "team": "INFINITE",
+      "region": "Global"
+    },
+    {
+      "rank": 48,
+      "points": 1201,
+      "team": "Sashi",
+      "region": "Global"
+    },
+    {
+      "rank": 49,
+      "points": 1169,
+      "team": "Nemiga",
+      "region": "Global"
+    },
+    {
+      "rank": 50,
+      "points": 1167,
+      "team": "NRG",
+      "region": "Global"
+    },
+    {
+      "rank": 51,
+      "points": 1162,
+      "team": "FOKUS",
+      "region": "Global"
+    },
+    {
+      "rank": 52,
+      "points": 1150,
+      "team": "FlyQuest",
+      "region": "Global"
+    },
+    {
+      "rank": 53,
+      "points": 1136,
+      "team": "BBL",
+      "region": "Global"
+    },
+    {
+      "rank": 54,
+      "points": 1135,
+      "team": "Wildcard",
+      "region": "Global"
+    },
+    {
+      "rank": 55,
+      "points": 1128,
+      "team": "Omega",
+      "region": "Global"
+    },
+    {
+      "rank": 56,
+      "points": 1126,
+      "team": "Jam",
+      "region": "Global"
+    },
+    {
+      "rank": 57,
+      "points": 1121,
+      "team": "INOX Division",
+      "region": "Global"
+    },
+    {
+      "rank": 58,
+      "points": 1116,
+      "team": "SINNERS",
+      "region": "Global"
+    },
+    {
+      "rank": 59,
+      "points": 1114,
+      "team": "DEPO",
+      "region": "Global"
+    },
+    {
+      "rank": 60,
+      "points": 1107,
+      "team": "Color",
+      "region": "Global"
+    },
+    {
+      "rank": 61,
+      "points": 1106,
+      "team": "Iberian Soul",
+      "region": "Global"
+    },
+    {
+      "rank": 62,
+      "points": 1102,
+      "team": "Metizport",
+      "region": "Global"
+    },
+    {
+      "rank": 63,
+      "points": 1092,
+      "team": "Phantom",
+      "region": "Global"
+    },
+    {
+      "rank": 64,
+      "points": 1088,
+      "team": "WW",
+      "region": "Global"
+    },
+    {
+      "rank": 65,
+      "points": 1085,
+      "team": "Imperial",
+      "region": "Global"
+    },
+    {
+      "rank": 66,
+      "points": 1082,
+      "team": "ex-RUBY",
+      "region": "Global"
+    },
+    {
+      "rank": 67,
+      "points": 1082,
+      "team": "Eternal Fire",
+      "region": "Global"
+    },
+    {
+      "rank": 68,
+      "points": 1075,
+      "team": "GenOne",
+      "region": "Global"
+    },
+    {
+      "rank": 69,
+      "points": 1075,
+      "team": "SportsBetExpert",
+      "region": "Global"
+    },
+    {
+      "rank": 70,
+      "points": 1073,
+      "team": "Butterfly",
+      "region": "Global"
+    },
+    {
+      "rank": 71,
+      "points": 1070,
+      "team": "9INE",
+      "region": "Global"
+    },
+    {
+      "rank": 72,
+      "points": 1065,
+      "team": "Fluxo",
+      "region": "Global"
+    },
+    {
+      "rank": 73,
+      "points": 1054,
+      "team": "ASTRAL",
+      "region": "Global"
+    },
+    {
+      "rank": 74,
+      "points": 1045,
+      "team": "BRUTE",
+      "region": "Global"
+    },
+    {
+      "rank": 75,
+      "points": 1045,
+      "team": "Rune Eaters",
+      "region": "Global"
+    },
+    {
+      "rank": 76,
+      "points": 1043,
+      "team": "ex-Zero Tenacity",
+      "region": "Global"
+    },
+    {
+      "rank": 77,
+      "points": 1041,
+      "team": "THUNDER dOWNUNDER",
+      "region": "Global"
+    },
+    {
+      "rank": 78,
+      "points": 1029,
+      "team": "CYBERSHOKE",
+      "region": "Global"
+    },
+    {
+      "rank": 79,
+      "points": 1020,
+      "team": "NOVAQ",
+      "region": "Global"
+    },
+    {
+      "rank": 80,
+      "points": 1018,
+      "team": "QUAZAR",
+      "region": "Global"
+    },
+    {
+      "rank": 81,
+      "points": 1017,
+      "team": "EAC",
+      "region": "Global"
+    },
+    {
+      "rank": 82,
+      "points": 1013,
+      "team": "OG",
+      "region": "Global"
+    },
+    {
+      "rank": 83,
+      "points": 1012,
+      "team": "UPGRADE",
+      "region": "Global"
+    },
+    {
+      "rank": 84,
+      "points": 1006,
+      "team": "Galorys",
+      "region": "Global"
+    },
+    {
+      "rank": 85,
+      "points": 1001,
+      "team": "BESTIA",
+      "region": "Global"
+    },
+    {
+      "rank": 86,
+      "points": 990,
+      "team": "BASEMENT BOYS",
+      "region": "Global"
+    },
+    {
+      "rank": 87,
+      "points": 984,
+      "team": "LAG",
+      "region": "Global"
+    },
+    {
+      "rank": 88,
+      "points": 979,
+      "team": "Bushido Wildcats",
+      "region": "Global"
+    },
+    {
+      "rank": 89,
+      "points": 977,
+      "team": "BET-M",
+      "region": "Global"
+    },
+    {
+      "rank": 90,
+      "points": 975,
+      "team": "Black Phoenix",
+      "region": "Global"
+    },
+    {
+      "rank": 91,
+      "points": 973,
+      "team": "KOLESIE",
+      "region": "Global"
+    },
+    {
+      "rank": 92,
+      "points": 970,
+      "team": "Voca",
+      "region": "Global"
+    },
+    {
+      "rank": 93,
+      "points": 967,
+      "team": "UNiTY",
+      "region": "Global"
+    },
+    {
+      "rank": 94,
+      "points": 967,
+      "team": "Walczaki",
+      "region": "Global"
+    },
+    {
+      "rank": 95,
+      "points": 963,
+      "team": "Nexus",
+      "region": "Global"
+    },
+    {
+      "rank": 96,
+      "points": 959,
+      "team": "SPARTA",
+      "region": "Global"
+    },
+    {
+      "rank": 97,
+      "points": 952,
+      "team": "ShindeN",
+      "region": "Global"
+    },
+    {
+      "rank": 98,
+      "points": 951,
+      "team": "ex-RUSTEC",
+      "region": "Global"
+    },
+    {
+      "rank": 99,
+      "points": 944,
+      "team": "FORZE Reload",
+      "region": "Global"
+    },
+    {
+      "rank": 100,
+      "points": 939,
+      "team": "BAKS",
+      "region": "Global"
+    },
+    {
+      "rank": 101,
+      "points": 939,
+      "team": "LP",
+      "region": "Global"
+    },
+    {
+      "rank": 102,
+      "points": 927,
+      "team": "ARCRED",
+      "region": "Global"
+    },
+    {
+      "rank": 103,
+      "points": 920,
+      "team": "STATE",
+      "region": "Global"
+    },
+    {
+      "rank": 104,
+      "points": 919,
+      "team": "Ground Zero",
+      "region": "Global"
+    },
+    {
+      "rank": 105,
+      "points": 911,
+      "team": "Marsborne",
+      "region": "Global"
+    },
+    {
+      "rank": 106,
+      "points": 911,
+      "team": "Johnny Speeds",
+      "region": "Global"
+    },
+    {
+      "rank": 107,
+      "points": 904,
+      "team": "G2 Ares",
+      "region": "Global"
+    },
+    {
+      "rank": 108,
+      "points": 901,
+      "team": "The Last Resort",
+      "region": "Global"
+    },
+    {
+      "rank": 109,
+      "points": 896,
+      "team": "Inner Circle Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 110,
+      "points": 895,
+      "team": "Just Players",
+      "region": "Global"
+    },
+    {
+      "rank": 111,
+      "points": 884,
+      "team": "Johnny Speeds",
+      "region": "Global"
+    },
+    {
+      "rank": 112,
+      "points": 883,
+      "team": "Leo",
+      "region": "Global"
+    },
+    {
+      "rank": 113,
+      "points": 882,
+      "team": "CYBERSHOKE",
+      "region": "Global"
+    },
+    {
+      "rank": 114,
+      "points": 881,
+      "team": "Lavked",
+      "region": "Global"
+    },
+    {
+      "rank": 115,
+      "points": 878,
+      "team": "PsychoFace",
+      "region": "Global"
+    },
+    {
+      "rank": 116,
+      "points": 874,
+      "team": "Spirit Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 117,
+      "points": 873,
+      "team": "HAVU",
+      "region": "Global"
+    },
+    {
+      "rank": 118,
+      "points": 872,
+      "team": "Bounty Hunters",
+      "region": "Global"
+    },
+    {
+      "rank": 119,
+      "points": 871,
+      "team": "Chicken Coop",
+      "region": "Global"
+    },
+    {
+      "rank": 120,
+      "points": 869,
+      "team": "Entropy",
+      "region": "Global"
+    },
+    {
+      "rank": 121,
+      "points": 867,
+      "team": "5star",
+      "region": "Global"
+    },
+    {
+      "rank": 122,
+      "points": 862,
+      "team": "ENCE",
+      "region": "Global"
+    },
+    {
+      "rank": 123,
+      "points": 860,
+      "team": "Azuolas",
+      "region": "Global"
+    },
+    {
+      "rank": 124,
+      "points": 851,
+      "team": "Nordic Partners",
+      "region": "Global"
+    },
+    {
+      "rank": 125,
+      "points": 850,
+      "team": "Enjoy",
+      "region": "Global"
+    },
+    {
+      "rank": 126,
+      "points": 849,
+      "team": "RBLS",
+      "region": "Global"
+    },
+    {
+      "rank": 127,
+      "points": 847,
+      "team": "NAVI Junior",
+      "region": "Global"
+    },
+    {
+      "rank": 128,
+      "points": 840,
+      "team": "mellren",
+      "region": "Global"
+    },
+    {
+      "rank": 129,
+      "points": 839,
+      "team": "ReThink",
+      "region": "Global"
+    },
+    {
+      "rank": 130,
+      "points": 839,
+      "team": "MASONIC",
+      "region": "Global"
+    },
+    {
+      "rank": 131,
+      "points": 836,
+      "team": "ODDIK",
+      "region": "Global"
+    },
+    {
+      "rank": 132,
+      "points": 836,
+      "team": "Phantom",
+      "region": "Global"
+    },
+    {
+      "rank": 133,
+      "points": 835,
+      "team": "WBT",
+      "region": "Global"
+    },
+    {
+      "rank": 134,
+      "points": 833,
+      "team": "HYPERSPIRIT",
+      "region": "Global"
+    },
+    {
+      "rank": 135,
+      "points": 833,
+      "team": "Lazer Cats",
+      "region": "Global"
+    },
+    {
+      "rank": 136,
+      "points": 832,
+      "team": "NEXVOID",
+      "region": "Global"
+    },
+    {
+      "rank": 137,
+      "points": 828,
+      "team": "Betclic",
+      "region": "Global"
+    },
+    {
+      "rank": 138,
+      "points": 827,
+      "team": "PCIFIC",
+      "region": "Global"
+    },
+    {
+      "rank": 139,
+      "points": 823,
+      "team": "Keyd Stars",
+      "region": "Global"
+    },
+    {
+      "rank": 140,
+      "points": 822,
+      "team": "Washed",
+      "region": "Global"
+    },
+    {
+      "rank": 141,
+      "points": 816,
+      "team": "Endless Journey",
+      "region": "Global"
+    },
+    {
+      "rank": 142,
+      "points": 814,
+      "team": "Rare Atom",
+      "region": "Global"
+    },
+    {
+      "rank": 143,
+      "points": 810,
+      "team": "Isurus",
+      "region": "Global"
+    },
+    {
+      "rank": 144,
+      "points": 810,
+      "team": "Honvéd",
+      "region": "Global"
+    },
+    {
+      "rank": 145,
+      "points": 809,
+      "team": "Alter Ego",
+      "region": "Global"
+    },
+    {
+      "rank": 146,
+      "points": 808,
+      "team": "Fisher College",
+      "region": "Global"
+    },
+    {
+      "rank": 147,
+      "points": 807,
+      "team": "For Fun",
+      "region": "Global"
+    },
+    {
+      "rank": 148,
+      "points": 807,
+      "team": "benched gods",
+      "region": "Global"
+    },
+    {
+      "rank": 149,
+      "points": 807,
+      "team": "Passion UA",
+      "region": "Global"
+    },
+    {
+      "rank": 150,
+      "points": 793,
+      "team": "Without a Roof",
+      "region": "Global"
+    },
+    {
+      "rank": 151,
+      "points": 787,
+      "team": "Noir Verse",
+      "region": "Global"
+    },
+    {
+      "rank": 152,
+      "points": 787,
+      "team": "Chinggis Warriors",
+      "region": "Global"
+    },
+    {
+      "rank": 153,
+      "points": 786,
+      "team": "ALKA",
+      "region": "Global"
+    },
+    {
+      "rank": 154,
+      "points": 785,
+      "team": "SINQU",
+      "region": "Global"
+    },
+    {
+      "rank": 155,
+      "points": 782,
+      "team": "Drip Too Hard",
+      "region": "Global"
+    },
+    {
+      "rank": 156,
+      "points": 781,
+      "team": "Vexar",
+      "region": "Global"
+    },
+    {
+      "rank": 157,
+      "points": 777,
+      "team": "Fire Flux",
+      "region": "Global"
+    },
+    {
+      "rank": 158,
+      "points": 775,
+      "team": "Turma do Pagode",
+      "region": "Global"
+    },
+    {
+      "rank": 159,
+      "points": 774,
+      "team": "Yawara",
+      "region": "Global"
+    },
+    {
+      "rank": 160,
+      "points": 773,
+      "team": "LPH",
+      "region": "Global"
+    },
+    {
+      "rank": 161,
+      "points": 771,
+      "team": "DragonClaw",
+      "region": "Global"
+    },
+    {
+      "rank": 162,
+      "points": 771,
+      "team": "Atreides",
+      "region": "Global"
+    },
+    {
+      "rank": 163,
+      "points": 768,
+      "team": "Permitta",
+      "region": "Global"
+    },
+    {
+      "rank": 164,
+      "points": 767,
+      "team": "regain",
+      "region": "Global"
+    },
+    {
+      "rank": 165,
+      "points": 762,
+      "team": "The Huns",
+      "region": "Global"
+    },
+    {
+      "rank": 166,
+      "points": 758,
+      "team": "MIBR fe",
+      "region": "Global"
+    },
+    {
+      "rank": 167,
+      "points": 757,
+      "team": "Fake do Biru",
+      "region": "Global"
+    },
+    {
+      "rank": 168,
+      "points": 755,
+      "team": "roamsfiest",
+      "region": "Global"
+    },
+    {
+      "rank": 169,
+      "points": 754,
+      "team": "6666",
+      "region": "Global"
+    },
+    {
+      "rank": 170,
+      "points": 743,
+      "team": "Misa",
+      "region": "Global"
+    },
+    {
+      "rank": 171,
+      "points": 741,
+      "team": "ex-MIBR Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 172,
+      "points": 741,
+      "team": "Gaimin Gladiators",
+      "region": "Global"
+    },
+    {
+      "rank": 173,
+      "points": 740,
+      "team": "Strael Bora",
+      "region": "Global"
+    },
+    {
+      "rank": 174,
+      "points": 739,
+      "team": "UNO MILLE",
+      "region": "Global"
+    },
+    {
+      "rank": 175,
+      "points": 739,
+      "team": "illwill",
+      "region": "Global"
+    },
+    {
+      "rank": 176,
+      "points": 739,
+      "team": "BRUTE",
+      "region": "Global"
+    },
+    {
+      "rank": 177,
+      "points": 736,
+      "team": "THE UNIT",
+      "region": "Global"
+    },
+    {
+      "rank": 178,
+      "points": 735,
+      "team": "BERG",
+      "region": "Global"
+    },
+    {
+      "rank": 179,
+      "points": 734,
+      "team": "Overtake Sector",
+      "region": "Global"
+    },
+    {
+      "rank": 180,
+      "points": 733,
+      "team": "RED Canids",
+      "region": "Global"
+    },
+    {
+      "rank": 181,
+      "points": 732,
+      "team": "AM",
+      "region": "Global"
+    },
+    {
+      "rank": 182,
+      "points": 731,
+      "team": "aimclub",
+      "region": "Global"
+    },
+    {
+      "rank": 183,
+      "points": 731,
+      "team": "Peladona",
+      "region": "Global"
+    },
+    {
+      "rank": 184,
+      "points": 730,
+      "team": "Falcons Force",
+      "region": "Global"
+    },
+    {
+      "rank": 185,
+      "points": 730,
+      "team": "Mai Tai",
+      "region": "Global"
+    },
+    {
+      "rank": 186,
+      "points": 728,
+      "team": "SAW Youngsters",
+      "region": "Global"
+    },
+    {
+      "rank": 187,
+      "points": 727,
+      "team": "Rooster",
+      "region": "Global"
+    },
+    {
+      "rank": 188,
+      "points": 727,
+      "team": "Kaleido",
+      "region": "Global"
+    },
+    {
+      "rank": 189,
+      "points": 723,
+      "team": "NEW VISION",
+      "region": "Global"
+    },
+    {
+      "rank": 190,
+      "points": 723,
+      "team": "Bebop",
+      "region": "Global"
+    },
+    {
+      "rank": 191,
+      "points": 720,
+      "team": "Mindfreak",
+      "region": "Global"
+    },
+    {
+      "rank": 192,
+      "points": 718,
+      "team": "ex-MANA",
+      "region": "Global"
+    },
+    {
+      "rank": 193,
+      "points": 718,
+      "team": "Fortress",
+      "region": "Global"
+    },
+    {
+      "rank": 194,
+      "points": 717,
+      "team": "ALGO",
+      "region": "Global"
+    },
+    {
+      "rank": 195,
+      "points": 715,
+      "team": "MOUZ NXT",
+      "region": "Global"
+    },
+    {
+      "rank": 196,
+      "points": 715,
+      "team": "Sangal",
+      "region": "Global"
+    },
+    {
+      "rank": 197,
+      "points": 714,
+      "team": "Abyssal",
+      "region": "Global"
+    },
+    {
+      "rank": 198,
+      "points": 712,
+      "team": "megoshort",
+      "region": "Global"
+    },
+    {
+      "rank": 199,
+      "points": 710,
+      "team": "DONSTU",
+      "region": "Global"
+    },
+    {
+      "rank": 200,
+      "points": 710,
+      "team": "Just Swing",
+      "region": "Global"
+    },
+    {
+      "rank": 201,
+      "points": 710,
+      "team": "Entropy",
+      "region": "Global"
+    },
+    {
+      "rank": 202,
+      "points": 708,
+      "team": "Hashiras",
+      "region": "Global"
+    },
+    {
+      "rank": 203,
+      "points": 705,
+      "team": "BORRACHEIROS",
+      "region": "Global"
+    },
+    {
+      "rank": 204,
+      "points": 705,
+      "team": "Villainous",
+      "region": "Global"
+    },
+    {
+      "rank": 205,
+      "points": 701,
+      "team": "MIBR Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 206,
+      "points": 699,
+      "team": "NuTorious",
+      "region": "Global"
+    },
+    {
+      "rank": 207,
+      "points": 698,
+      "team": "Iowa Stormboar",
+      "region": "Global"
+    },
+    {
+      "rank": 208,
+      "points": 697,
+      "team": "SemperFi",
+      "region": "Global"
+    },
+    {
+      "rank": 209,
+      "points": 696,
+      "team": "Zomblers",
+      "region": "Global"
+    },
+    {
+      "rank": 210,
+      "points": 695,
+      "team": "Vitalem Aerem",
+      "region": "Global"
+    },
+    {
+      "rank": 211,
+      "points": 692,
+      "team": "aAa",
+      "region": "Global"
+    },
+    {
+      "rank": 212,
+      "points": 690,
+      "team": "ex-Sashi Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 213,
+      "points": 690,
+      "team": "Ninjas in Pyjamas",
+      "region": "Global"
+    },
+    {
+      "rank": 214,
+      "points": 689,
+      "team": "MAYBE",
+      "region": "Global"
+    },
+    {
+      "rank": 215,
+      "points": 688,
+      "team": "BESTIA Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 216,
+      "points": 687,
+      "team": "brazylijski luz",
+      "region": "Global"
+    },
+    {
+      "rank": 217,
+      "points": 685,
+      "team": "UNO MILLE",
+      "region": "Global"
+    },
+    {
+      "rank": 218,
+      "points": 683,
+      "team": "TDK",
+      "region": "Global"
+    },
+    {
+      "rank": 219,
+      "points": 682,
+      "team": "Chinggis Warriors",
+      "region": "Global"
+    },
+    {
+      "rank": 220,
+      "points": 679,
+      "team": "WAZABI",
+      "region": "Global"
+    },
+    {
+      "rank": 221,
+      "points": 677,
+      "team": "BC.Game",
+      "region": "Global"
+    },
+    {
+      "rank": 222,
+      "points": 676,
+      "team": "Young Ninjas",
+      "region": "Global"
+    },
+    {
+      "rank": 223,
+      "points": 676,
+      "team": "TNC",
+      "region": "Global"
+    },
+    {
+      "rank": 224,
+      "points": 675,
+      "team": "OLDBOYS PL",
+      "region": "Global"
+    },
+    {
+      "rank": 225,
+      "points": 673,
+      "team": "FAVBET",
+      "region": "Global"
+    },
+    {
+      "rank": 226,
+      "points": 671,
+      "team": "MOUZ NXT",
+      "region": "Global"
+    },
+    {
+      "rank": 227,
+      "points": 669,
+      "team": "Rare Atom",
+      "region": "Global"
+    },
+    {
+      "rank": 228,
+      "points": 668,
+      "team": "DETONATE",
+      "region": "Global"
+    },
+    {
+      "rank": 229,
+      "points": 668,
+      "team": "Phantom Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 230,
+      "points": 668,
+      "team": "Entropy",
+      "region": "Global"
+    },
+    {
+      "rank": 231,
+      "points": 666,
+      "team": "ex-RUBY",
+      "region": "Global"
+    },
+    {
+      "rank": 232,
+      "points": 665,
+      "team": "HEROIC Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 233,
+      "points": 664,
+      "team": "Haunted House",
+      "region": "Global"
+    },
+    {
+      "rank": 234,
+      "points": 664,
+      "team": "EMPIRE",
+      "region": "Global"
+    },
+    {
+      "rank": 235,
+      "points": 663,
+      "team": "Marsborne",
+      "region": "Global"
+    },
+    {
+      "rank": 236,
+      "points": 662,
+      "team": "Ryvex",
+      "region": "Global"
+    },
+    {
+      "rank": 237,
+      "points": 662,
+      "team": "Club 333",
+      "region": "Global"
+    },
+    {
+      "rank": 238,
+      "points": 660,
+      "team": "Lilmix",
+      "region": "Global"
+    },
+    {
+      "rank": 239,
+      "points": 658,
+      "team": "ex-Aether",
+      "region": "Global"
+    },
+    {
+      "rank": 240,
+      "points": 655,
+      "team": "MEIA NOITE",
+      "region": "Global"
+    },
+    {
+      "rank": 241,
+      "points": 653,
+      "team": "Revise",
+      "region": "Global"
+    },
+    {
+      "rank": 242,
+      "points": 653,
+      "team": "BIG Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 243,
+      "points": 652,
+      "team": "Liquid",
+      "region": "Global"
+    },
+    {
+      "rank": 244,
+      "points": 652,
+      "team": "Arcade",
+      "region": "Global"
+    },
+    {
+      "rank": 245,
+      "points": 652,
+      "team": "FengDa",
+      "region": "Global"
+    },
+    {
+      "rank": 246,
+      "points": 652,
+      "team": "Wanted Goons",
+      "region": "Global"
+    },
+    {
+      "rank": 247,
+      "points": 652,
+      "team": "ECSTATIC",
+      "region": "Global"
+    },
+    {
+      "rank": 248,
+      "points": 649,
+      "team": "train launcher",
+      "region": "Global"
+    },
+    {
+      "rank": 249,
+      "points": 649,
+      "team": "ALTAY",
+      "region": "Global"
+    },
+    {
+      "rank": 250,
+      "points": 649,
+      "team": "Turma do Pagode",
+      "region": "Global"
+    },
+    {
+      "rank": 251,
+      "points": 648,
+      "team": "FarmVille",
+      "region": "Global"
+    },
+    {
+      "rank": 252,
+      "points": 647,
+      "team": "Privateer",
+      "region": "Global"
+    },
+    {
+      "rank": 253,
+      "points": 647,
+      "team": "BOSS",
+      "region": "Global"
+    },
+    {
+      "rank": 254,
+      "points": 646,
+      "team": "Clutchain fe",
+      "region": "Global"
+    },
+    {
+      "rank": 255,
+      "points": 644,
+      "team": "struggletony",
+      "region": "Global"
+    },
+    {
+      "rank": 256,
+      "points": 643,
+      "team": "B8 Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 257,
+      "points": 642,
+      "team": "paiN Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 258,
+      "points": 642,
+      "team": "Leo",
+      "region": "Global"
+    },
+    {
+      "rank": 259,
+      "points": 641,
+      "team": "QUINTESSÊNCIA",
+      "region": "Global"
+    },
+    {
+      "rank": 260,
+      "points": 641,
+      "team": "insane players",
+      "region": "Global"
+    },
+    {
+      "rank": 261,
+      "points": 640,
+      "team": "HOTU",
+      "region": "Global"
+    },
+    {
+      "rank": 262,
+      "points": 639,
+      "team": "Change The Game",
+      "region": "Global"
+    },
+    {
+      "rank": 263,
+      "points": 639,
+      "team": "Eternal Fire",
+      "region": "Global"
+    },
+    {
+      "rank": 264,
+      "points": 636,
+      "team": "Sashi Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 265,
+      "points": 635,
+      "team": "BORING PLAYERS",
+      "region": "Global"
+    },
+    {
+      "rank": 266,
+      "points": 635,
+      "team": "SHISHKA",
+      "region": "Global"
+    },
+    {
+      "rank": 267,
+      "points": 634,
+      "team": "UNiTY",
+      "region": "Global"
+    },
+    {
+      "rank": 268,
+      "points": 633,
+      "team": "Just Players",
+      "region": "Global"
+    },
+    {
+      "rank": 269,
+      "points": 630,
+      "team": "FarmVille",
+      "region": "Global"
+    },
+    {
+      "rank": 270,
+      "points": 630,
+      "team": "KUUSAMO",
+      "region": "Global"
+    },
+    {
+      "rank": 271,
+      "points": 630,
+      "team": "Shimmer",
+      "region": "Global"
+    },
+    {
+      "rank": 272,
+      "points": 629,
+      "team": "Aether",
+      "region": "Global"
+    },
+    {
+      "rank": 273,
+      "points": 624,
+      "team": "Mai Tai",
+      "region": "Global"
+    },
+    {
+      "rank": 274,
+      "points": 623,
+      "team": "EMPIRE",
+      "region": "Global"
+    },
+    {
+      "rank": 275,
+      "points": 620,
+      "team": "Procyon",
+      "region": "Global"
+    },
+    {
+      "rank": 276,
+      "points": 618,
+      "team": "Invicta",
+      "region": "Global"
+    },
+    {
+      "rank": 277,
+      "points": 618,
+      "team": "Club 333",
+      "region": "Global"
+    },
+    {
+      "rank": 278,
+      "points": 618,
+      "team": "eSuba",
+      "region": "Global"
+    },
+    {
+      "rank": 279,
+      "points": 618,
+      "team": "Banzai",
+      "region": "Global"
+    },
+    {
+      "rank": 280,
+      "points": 616,
+      "team": "Dark Moon",
+      "region": "Global"
+    },
+    {
+      "rank": 281,
+      "points": 614,
+      "team": "eternal premium",
+      "region": "Global"
+    },
+    {
+      "rank": 282,
+      "points": 613,
+      "team": "Subtop De France",
+      "region": "Global"
+    },
+    {
+      "rank": 283,
+      "points": 612,
+      "team": "cirahvi",
+      "region": "Global"
+    },
+    {
+      "rank": 284,
+      "points": 609,
+      "team": "Reign Above",
+      "region": "Global"
+    },
+    {
+      "rank": 285,
+      "points": 607,
+      "team": "ROUNDS",
+      "region": "Global"
+    },
+    {
+      "rank": 286,
+      "points": 606,
+      "team": "Raccoons",
+      "region": "Global"
+    },
+    {
+      "rank": 287,
+      "points": 603,
+      "team": "METANOIA Wolves",
+      "region": "Global"
+    },
+    {
+      "rank": 288,
+      "points": 603,
+      "team": "XI",
+      "region": "Global"
+    },
+    {
+      "rank": 289,
+      "points": 603,
+      "team": "bankaPEPSI",
+      "region": "Global"
+    },
+    {
+      "rank": 290,
+      "points": 603,
+      "team": "ZOTIX",
+      "region": "Global"
+    },
+    {
+      "rank": 291,
+      "points": 603,
+      "team": "Back to Back",
+      "region": "Global"
+    },
+    {
+      "rank": 292,
+      "points": 602,
+      "team": "BMZ",
+      "region": "Global"
+    },
+    {
+      "rank": 293,
+      "points": 602,
+      "team": "DNK",
+      "region": "Global"
+    },
+    {
+      "rank": 294,
+      "points": 601,
+      "team": "MARKandLARRY",
+      "region": "Global"
+    },
+    {
+      "rank": 295,
+      "points": 600,
+      "team": "Ding Cuts",
+      "region": "Global"
+    },
+    {
+      "rank": 296,
+      "points": 597,
+      "team": "Atrix",
+      "region": "Global"
+    },
+    {
+      "rank": 297,
+      "points": 596,
+      "team": "Festina Lente",
+      "region": "Global"
+    },
+    {
+      "rank": 298,
+      "points": 595,
+      "team": "Keyd Stars",
+      "region": "Global"
+    },
+    {
+      "rank": 299,
+      "points": 595,
+      "team": "Jumprava",
+      "region": "Global"
+    },
+    {
+      "rank": 300,
+      "points": 591,
+      "team": "Drama",
+      "region": "Global"
+    },
+    {
+      "rank": 301,
+      "points": 590,
+      "team": "paiN Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 302,
+      "points": 590,
+      "team": "QuantumX",
+      "region": "Global"
+    },
+    {
+      "rank": 303,
+      "points": 589,
+      "team": "A Great Chaos",
+      "region": "Global"
+    },
+    {
+      "rank": 304,
+      "points": 588,
+      "team": "Arch",
+      "region": "Global"
+    },
+    {
+      "rank": 305,
+      "points": 585,
+      "team": "Partizan",
+      "region": "Global"
+    },
+    {
+      "rank": 306,
+      "points": 583,
+      "team": "900FPSvsECO",
+      "region": "Global"
+    },
+    {
+      "rank": 307,
+      "points": 582,
+      "team": "Julie&Cie",
+      "region": "Global"
+    },
+    {
+      "rank": 308,
+      "points": 580,
+      "team": "OlyBet",
+      "region": "Global"
+    },
+    {
+      "rank": 309,
+      "points": 573,
+      "team": "Wingman",
+      "region": "Global"
+    },
+    {
+      "rank": 310,
+      "points": 572,
+      "team": "LFO 8",
+      "region": "Global"
+    },
+    {
+      "rank": 311,
+      "points": 572,
+      "team": "ex-KRÜ",
+      "region": "Global"
+    },
+    {
+      "rank": 312,
+      "points": 571,
+      "team": "Crashers",
+      "region": "Global"
+    },
+    {
+      "rank": 313,
+      "points": 570,
+      "team": "MASONIC",
+      "region": "Global"
+    },
+    {
+      "rank": 314,
+      "points": 567,
+      "team": "LEGAM",
+      "region": "Global"
+    },
+    {
+      "rank": 315,
+      "points": 567,
+      "team": "Sensation",
+      "region": "Global"
+    },
+    {
+      "rank": 316,
+      "points": 560,
+      "team": "Mindfreak",
+      "region": "Global"
+    },
+    {
+      "rank": 317,
+      "points": 560,
+      "team": "Grêmio",
+      "region": "Global"
+    },
+    {
+      "rank": 318,
+      "points": 557,
+      "team": "atputies",
+      "region": "Global"
+    },
+    {
+      "rank": 319,
+      "points": 556,
+      "team": "Vasco",
+      "region": "Global"
+    },
+    {
+      "rank": 320,
+      "points": 555,
+      "team": "Players",
+      "region": "Global"
+    },
+    {
+      "rank": 321,
+      "points": 555,
+      "team": "Elusive",
+      "region": "Global"
+    },
+    {
+      "rank": 322,
+      "points": 554,
+      "team": "aimclub",
+      "region": "Global"
+    },
+    {
+      "rank": 323,
+      "points": 544,
+      "team": "Trainwrecks",
+      "region": "Global"
+    },
+    {
+      "rank": 324,
+      "points": 540,
+      "team": "Romania",
+      "region": "Global"
+    },
+    {
+      "rank": 325,
+      "points": 539,
+      "team": "Phantom Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 326,
+      "points": 539,
+      "team": "GamersLab",
+      "region": "Global"
+    },
+    {
+      "rank": 327,
+      "points": 538,
+      "team": "Xcity",
+      "region": "Global"
+    },
+    {
+      "rank": 328,
+      "points": 537,
+      "team": "Pugdesonesto",
+      "region": "Global"
+    },
+    {
+      "rank": 329,
+      "points": 536,
+      "team": "your end",
+      "region": "Global"
+    },
+    {
+      "rank": 330,
+      "points": 534,
+      "team": "Wampirki",
+      "region": "Global"
+    },
+    {
+      "rank": 331,
+      "points": 532,
+      "team": "Younglings",
+      "region": "Global"
+    },
+    {
+      "rank": 332,
+      "points": 531,
+      "team": "Aurora Young Blud",
+      "region": "Global"
+    },
+    {
+      "rank": 333,
+      "points": 529,
+      "team": "Olympus",
+      "region": "Global"
+    },
+    {
+      "rank": 334,
+      "points": 525,
+      "team": "M1X KS",
+      "region": "Global"
+    },
+    {
+      "rank": 335,
+      "points": 524,
+      "team": "ACROBATS",
+      "region": "Global"
+    },
+    {
+      "rank": 336,
+      "points": 524,
+      "team": "Nas",
+      "region": "Global"
+    },
+    {
+      "rank": 337,
+      "points": 523,
+      "team": "New Legends",
+      "region": "Global"
+    },
+    {
+      "rank": 338,
+      "points": 521,
+      "team": "Tricksters",
+      "region": "Global"
+    },
+    {
+      "rank": 339,
+      "points": 519,
+      "team": "Basement Bobs",
+      "region": "Global"
+    },
+    {
+      "rank": 340,
+      "points": 518,
+      "team": "MTX",
+      "region": "Global"
+    },
+    {
+      "rank": 341,
+      "points": 517,
+      "team": "yngods",
+      "region": "Global"
+    },
+    {
+      "rank": 342,
+      "points": 516,
+      "team": "Sementes do Mal",
+      "region": "Global"
+    },
+    {
+      "rank": 343,
+      "points": 515,
+      "team": "playersclub",
+      "region": "Global"
+    },
+    {
+      "rank": 344,
+      "points": 515,
+      "team": "Young TigeRES",
+      "region": "Global"
+    },
+    {
+      "rank": 345,
+      "points": 515,
+      "team": "Famalicão",
+      "region": "Global"
+    },
+    {
+      "rank": 346,
+      "points": 514,
+      "team": "Incognito",
+      "region": "Global"
+    },
+    {
+      "rank": 347,
+      "points": 511,
+      "team": "XDM",
+      "region": "Global"
+    },
+    {
+      "rank": 348,
+      "points": 509,
+      "team": "NSN",
+      "region": "Global"
+    },
+    {
+      "rank": 349,
+      "points": 509,
+      "team": "Persona Grata",
+      "region": "Global"
+    },
+    {
+      "rank": 350,
+      "points": 508,
+      "team": "Clutchain",
+      "region": "Global"
+    },
+    {
+      "rank": 351,
+      "points": 507,
+      "team": "megoshort",
+      "region": "Global"
+    },
+    {
+      "rank": 352,
+      "points": 506,
+      "team": "FURY",
+      "region": "Global"
+    },
+    {
+      "rank": 353,
+      "points": 505,
+      "team": "rottweilers",
+      "region": "Global"
+    },
+    {
+      "rank": 354,
+      "points": 499,
+      "team": "R2",
+      "region": "Global"
+    },
+    {
+      "rank": 355,
+      "points": 498,
+      "team": "Chicanery",
+      "region": "Global"
+    },
+    {
+      "rank": 356,
+      "points": 497,
+      "team": "Bebop",
+      "region": "Global"
+    },
+    {
+      "rank": 357,
+      "points": 495,
+      "team": "Subtop De France",
+      "region": "Global"
+    },
+    {
+      "rank": 358,
+      "points": 495,
+      "team": "Drama",
+      "region": "Global"
+    },
+    {
+      "rank": 359,
+      "points": 493,
+      "team": "SINQU",
+      "region": "Global"
+    },
+    {
+      "rank": 360,
+      "points": 485,
+      "team": "girl kissers",
+      "region": "Global"
+    },
+    {
+      "rank": 361,
+      "points": 484,
+      "team": "Legion",
+      "region": "Global"
+    },
+    {
+      "rank": 362,
+      "points": 483,
+      "team": "METANOIA Wolves",
+      "region": "Global"
+    },
+    {
+      "rank": 363,
+      "points": 483,
+      "team": "MAGICOS",
+      "region": "Global"
+    },
+    {
+      "rank": 364,
+      "points": 482,
+      "team": "EC BANGA",
+      "region": "Global"
+    },
+    {
+      "rank": 365,
+      "points": 482,
+      "team": "IDoPieca",
+      "region": "Global"
+    },
+    {
+      "rank": 366,
+      "points": 482,
+      "team": "Coalesce",
+      "region": "Global"
+    },
+    {
+      "rank": 367,
+      "points": 478,
+      "team": "DAMAJUANA",
+      "region": "Global"
+    },
+    {
+      "rank": 368,
+      "points": 478,
+      "team": "Sangal",
+      "region": "Global"
+    },
+    {
+      "rank": 369,
+      "points": 476,
+      "team": "Blitzkrieg",
+      "region": "Global"
+    },
+    {
+      "rank": 370,
+      "points": 475,
+      "team": "VP.Prodigy",
+      "region": "Global"
+    },
+    {
+      "rank": 371,
+      "points": 474,
+      "team": "GUARA",
+      "region": "Global"
+    },
+    {
+      "rank": 372,
+      "points": 472,
+      "team": "Rune Eaters",
+      "region": "Global"
+    },
+    {
+      "rank": 373,
+      "points": 472,
+      "team": "raisedbypixels",
+      "region": "Global"
+    },
+    {
+      "rank": 374,
+      "points": 469,
+      "team": "Lilmix",
+      "region": "Global"
+    },
+    {
+      "rank": 375,
+      "points": 466,
+      "team": "Mansão Maromba",
+      "region": "Global"
+    },
+    {
+      "rank": 376,
+      "points": 465,
+      "team": "BBBMBCBS",
+      "region": "Global"
+    },
+    {
+      "rank": 377,
+      "points": 464,
+      "team": "Charrados",
+      "region": "Global"
+    },
+    {
+      "rank": 378,
+      "points": 464,
+      "team": "Zetta",
+      "region": "Global"
+    },
+    {
+      "rank": 379,
+      "points": 451,
+      "team": "home",
+      "region": "Global"
+    },
+    {
+      "rank": 380,
+      "points": 446,
+      "team": "Spirit HU",
+      "region": "Global"
+    },
+    {
+      "rank": 381,
+      "points": 433,
+      "team": "6666",
+      "region": "Global"
+    },
+    {
+      "rank": 382,
+      "points": 431,
+      "team": "Aimhaus",
+      "region": "Global"
+    },
+    {
+      "rank": 383,
+      "points": 429,
+      "team": "PURE",
+      "region": "Global"
+    },
+    {
+      "rank": 384,
+      "points": 424,
+      "team": "Unreal Nightmare",
+      "region": "Global"
+    },
+    {
+      "rank": 385,
+      "points": 419,
+      "team": "Unitronics",
+      "region": "Global"
+    },
+    {
+      "rank": 386,
+      "points": 418,
+      "team": "wachoskys",
+      "region": "Global"
+    },
+    {
+      "rank": 387,
+      "points": 408,
+      "team": "Sashi Academy",
+      "region": "Global"
+    },
+    {
+      "rank": 388,
+      "points": 407,
+      "team": "Z7",
+      "region": "Global"
+    },
+    {
+      "rank": 389,
+      "points": 406,
+      "team": "Grindas",
+      "region": "Global"
+    },
+    {
+      "rank": 390,
+      "points": 403,
+      "team": "brazylijski luz",
+      "region": "Global"
+    },
+    {
+      "rank": 391,
+      "points": 401,
+      "team": "UR",
+      "region": "Global"
+    },
+    {
+      "rank": 392,
+      "points": 400,
+      "team": "Fuzos",
+      "region": "Global"
+    },
+    {
+      "rank": 393,
+      "points": 400,
+      "team": "FURIA fe",
+      "region": "Global"
+    },
+    {
+      "rank": 394,
+      "points": 399,
+      "team": "Arise",
+      "region": "Global"
+    },
+    {
+      "rank": 395,
+      "points": 399,
+      "team": "BIG EQUIPA",
+      "region": "Global"
+    },
+    {
+      "rank": 396,
+      "points": 399,
+      "team": "AKA HERO KAJO",
+      "region": "Global"
+    },
+    {
+      "rank": 397,
+      "points": 398,
+      "team": "Skele",
+      "region": "Global"
+    },
+    {
+      "rank": 398,
+      "points": 397,
+      "team": "OverKnight",
+      "region": "Global"
+    },
+    {
+      "rank": 399,
+      "points": 396,
+      "team": "HereWeGoAgain",
+      "region": "Global"
+    },
+    {
+      "rank": 400,
+      "points": 395,
+      "team": "Time Waves",
+      "region": "Global"
+    },
+    {
+      "rank": 401,
+      "points": 385,
+      "team": "GAMEHARMONY",
+      "region": "Global"
+    }
+  ],
+  "events": [
+    {
+      "name": "Stake Pulse Beat II",
+      "status": "live",
+      "dates": {
+        "pt": "21 a 26 de setembro",
+        "en": "Sep 21–26"
+      },
+      "location": "Stockholm, Sweden",
+      "prize": 60000
+    },
+    {
+      "name": "1win Private Club Season 1",
+      "status": "upcoming",
+      "dates": {
+        "pt": "25 a 28 de setembro",
+        "en": "Sep 25–28"
+      },
+      "location": "Belgrade, Serbia",
+      "prize": 100000
+    },
+    {
+      "name": "ESL Pro League Season 24",
+      "status": "upcoming",
+      "dates": {
+        "pt": "3 a 11 de outubro",
+        "en": "Oct 3–11"
+      },
+      "location": "TBD",
+      "prize": 1000000
+    }
+  ],
+  "news": [
+    {
+      "category": {
+        "pt": "VALVE / STEAM",
+        "en": "VALVE / STEAM"
+      },
+      "title": {
+        "pt": "Counter-Strike 2 Update",
+        "en": "Counter-Strike 2 Update"
+      },
+      "summary": {
+        "pt": "\\Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.Warmup time once all players have con",
+        "en": "\\Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.Warmup time once all players have con"
+      },
+      "date": "09/23/2026",
+      "source": "Valve / Steam"
+    },
+    {
+      "category": {
+        "pt": "VALVE / STEAM",
+        "en": "VALVE / STEAM"
+      },
+      "title": {
+        "pt": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode",
+        "en": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode"
+      },
+      "summary": {
+        "pt": "This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches. Read the full article here: https://www.gamingonlinux.com/2026/09/counter-strike-2-adds-an-intense-fast-paced-3v3-rush-game-mode/",
+        "en": "This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches. Read the full article here: https://www.gamingonlinux.com/2026/09/counter-strike-2-adds-an-intense-fast-paced-3v3-rush-game-mode/"
+      },
+      "date": "09/23/2026",
+      "source": "Valve / Steam"
+    },
+    {
+      "category": {
+        "pt": "VALVE / STEAM",
+        "en": "VALVE / STEAM"
+      },
+      "title": {
+        "pt": "Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца",
+        "en": "Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца"
+      },
+      "summary": {
+        "pt": "Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve решили удивить игроков, и обновление получилось действительно масштабным на нововведения. Апдейт весом 4,7 ГБ не только принес новый контент в и",
+        "en": "Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve решили удивить игроков, и обновление получилось действительно масштабным на нововведения. Апдейт весом 4,7 ГБ не только принес новый контент в и"
+      },
+      "date": "09/23/2026",
+      "source": "Valve / Steam"
+    },
+    {
+      "category": {
+        "pt": "VALVE / STEAM",
+        "en": "VALVE / STEAM"
+      },
+      "title": {
+        "pt": "Rush Hour",
+        "en": "Rush Hour"
+      },
+      "summary": {
+        "pt": "Put your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match! Make the most of your limited budget a",
+        "en": "Put your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match! Make the most of your limited budget a"
+      },
+      "date": "09/22/2026",
+      "source": "Valve / Steam"
+    },
+    {
+      "category": {
+        "pt": "VALVE / STEAM",
+        "en": "VALVE / STEAM"
+      },
+      "title": {
+        "pt": "Counter-Strike 2 Update",
+        "en": "Counter-Strike 2 Update"
+      },
+      "summary": {
+        "pt": "\\Updated the map selection process to give players more opportunities to play maps they've been learning.Map selection process:Team 1 picks one mapTeam 2 picks two mapsTeam 1 picks a final map. One of the four maps will be randomly selected and the match will begin.\\Rush is a fas",
+        "en": "\\Updated the map selection process to give players more opportunities to play maps they've been learning.Map selection process:Team 1 picks one mapTeam 2 picks two mapsTeam 1 picks a final map. One of the four maps will be randomly selected and the match will begin.\\Rush is a fas"
+      },
+      "date": "09/22/2026",
+      "source": "Valve / Steam"
+    },
+    {
+      "category": {
+        "pt": "VALVE / STEAM",
+        "en": "VALVE / STEAM"
+      },
+      "title": {
+        "pt": "Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта",
+        "en": "Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта"
+      },
+      "summary": {
+        "pt": "Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со спасением заложников, который стоял у истоков культовой франшизы. В рамках интервью независимому блогеру разработчик отметил, что стремительное развитие соревновательной сц",
+        "en": "Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со спасением заложников, который стоял у истоков культовой франшизы. В рамках интервью независимому блогеру разработчик отметил, что стремительное развитие соревновательной сц"
+      },
+      "date": "09/19/2026",
+      "source": "Valve / Steam"
+    }
+  ],
+  "ticker": [
+    {
+      "label": {
+        "pt": "VRS",
+        "en": "VRS"
+      },
+      "value": {
+        "pt": "Spirit #1 · FURIA #7",
+        "en": "Spirit #1 · FURIA #7"
+      }
+    },
+    {
+      "label": {
+        "pt": "AO VIVO",
+        "en": "LIVE"
+      },
+      "value": {
+        "pt": "Stake Pulse Beat II",
+        "en": "Stake Pulse Beat II"
+      }
+    },
+    {
+      "label": {
+        "pt": "PORTAL",
+        "en": "PORTAL"
+      },
+      "value": {
+        "pt": "Atualização automática ativa",
+        "en": "Automated updates enabled"
+      }
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://campanhasupernow-rgb.github.io/sitescs/sitemap.xml
