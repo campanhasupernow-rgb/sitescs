@@ -3,6 +3,10 @@ name: Deploy CS2 portals to GitHub Pages
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'data/site.json'
+      - 'scripts/sync.py'
+      - '.github/workflows/sync.yml'
   workflow_dispatch:
 permissions:
   contents: read
