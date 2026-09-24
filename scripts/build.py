@@ -127,6 +127,16 @@ for lang in ("pt-BR","en-US"):
     sb=f'<div class="pagehead"><h1>{"Buscar" if pt else "Search"}</h1></div><input id="site-search" class="searchbox" autocomplete="off" placeholder="{"Time, jogador ou notícia..." if pt else "Team, player or story..."}"><div id="search-results" class="searchresults"></div>'
     (ROOT/"search"/f"{k}.html").write_text(shell("Busca" if pt else "Search",sb,lang,prefix="../",canonical=f"{SITE_BASE}/search/{k}.html"),"utf-8")
 
+redirects={
+    "news/index.html":"../news-en.html",
+    "teams/index.html":"../teams-en.html",
+    "players/index.html":"../players-en.html",
+    "tournaments/index.html":"../tournaments-en.html",
+    "matches/index.html":"en.html",
+}
+for path,target in redirects.items():
+    (ROOT/path).write_text(f'<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CS2NEWS Redirect</title><meta http-equiv="refresh" content="0;url={target}"></head><body><a href="{target}">Continue</a></body></html>',"utf-8")
+
 root='''<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CS2 NEWS</title><script>const p=(navigator.language||"").toLowerCase().startsWith("pt")?"cs2noticias/":"cs2news/";location.replace(p)</script><noscript><meta http-equiv="refresh" content="0;url=cs2news/"></noscript></head><body></body></html>'''
 (ROOT/"index.html").write_text(root,"utf-8")
 (ROOT/"404.html").write_text(shell("404",'<article class="article"><h1>404</h1><p>Page not found / Página não encontrada.</p></article>',"en-US",prefix=""),"utf-8")
