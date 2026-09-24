@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:46:53.587143+00:00",
+  "generated_at": "2026-09-24T19:49:59.351532+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -2443,99 +2443,87 @@
   "news": [
     {
       "category": {
-        "pt": "VALVE / STEAM",
-        "en": "VALVE / STEAM"
+        "en": "OFFICIAL UPDATE"
       },
       "title": {
-        "pt": "Counter-Strike 2 Update",
         "en": "Counter-Strike 2 Update"
       },
       "summary": {
-        "pt": "\\Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.Warmup time once all players have con",
-        "en": "\\Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.Warmup time once all players have con"
+        "en": "\\Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.Warmup time once all players have connected, freeze time, and technical timeo"
       },
       "date": "09/23/2026",
-      "source": "Valve / Steam"
+      "source": "Counter-Strike / Steam",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795"
     },
     {
       "category": {
-        "pt": "VALVE / STEAM",
-        "en": "VALVE / STEAM"
+        "en": "OFFICIAL UPDATE"
       },
       "title": {
-        "pt": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode",
-        "en": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode"
-      },
-      "summary": {
-        "pt": "This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches. Read the full article here: https://www.gamingonlinux.com/2026/09/counter-strike-2-adds-an-intense-fast-paced-3v3-rush-game-mode/",
-        "en": "This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches. Read the full article here: https://www.gamingonlinux.com/2026/09/counter-strike-2-adds-an-intense-fast-paced-3v3-rush-game-mode/"
-      },
-      "date": "09/23/2026",
-      "source": "Valve / Steam"
-    },
-    {
-      "category": {
-        "pt": "VALVE / STEAM",
-        "en": "VALVE / STEAM"
-      },
-      "title": {
-        "pt": "Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца",
-        "en": "Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца"
-      },
-      "summary": {
-        "pt": "Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve решили удивить игроков, и обновление получилось действительно масштабным на нововведения. Апдейт весом 4,7 ГБ не только принес новый контент в и",
-        "en": "Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve решили удивить игроков, и обновление получилось действительно масштабным на нововведения. Апдейт весом 4,7 ГБ не только принес новый контент в и"
-      },
-      "date": "09/23/2026",
-      "source": "Valve / Steam"
-    },
-    {
-      "category": {
-        "pt": "VALVE / STEAM",
-        "en": "VALVE / STEAM"
-      },
-      "title": {
-        "pt": "Rush Hour",
         "en": "Rush Hour"
       },
       "summary": {
-        "pt": "Put your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match! Make the most of your limited budget a",
-        "en": "Put your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match! Make the most of your limited budget a"
+        "en": "Put your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match! Make the most of your limited budget and precious time to clear the objective."
       },
       "date": "09/22/2026",
-      "source": "Valve / Steam"
+      "source": "Counter-Strike / Steam",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926"
     },
     {
       "category": {
-        "pt": "VALVE / STEAM",
-        "en": "VALVE / STEAM"
+        "en": "OFFICIAL UPDATE"
       },
       "title": {
-        "pt": "Counter-Strike 2 Update",
         "en": "Counter-Strike 2 Update"
       },
       "summary": {
-        "pt": "\\Updated the map selection process to give players more opportunities to play maps they've been learning.Map selection process:Team 1 picks one mapTeam 2 picks two mapsTeam 1 picks a final map. One of the four maps will be randomly selected and the match will begin.\\Rush is a fas",
-        "en": "\\Updated the map selection process to give players more opportunities to play maps they've been learning.Map selection process:Team 1 picks one mapTeam 2 picks two mapsTeam 1 picks a final map. One of the four maps will be randomly selected and the match will begin.\\Rush is a fas"
+        "en": "\\Updated the map selection process to give players more opportunities to play maps they've been learning.Map selection process:Team 1 picks one mapTeam 2 picks two mapsTeam 1 picks a final map. One of the four maps will be randomly selected and the match will begin.\\Rush is a fast-paced queued 3v3 game mode. Players ba"
       },
       "date": "09/22/2026",
-      "source": "Valve / Steam"
+      "source": "Counter-Strike / Steam",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924"
     },
     {
       "category": {
-        "pt": "VALVE / STEAM",
-        "en": "VALVE / STEAM"
+        "en": "OFFICIAL UPDATE"
       },
       "title": {
-        "pt": "Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта",
-        "en": "Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта"
+        "en": "Counter-Strike 2 Update"
       },
       "summary": {
-        "pt": "Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со спасением заложников, который стоял у истоков культовой франшизы. В рамках интервью независимому блогеру разработчик отметил, что стремительное развитие соревновательной сц",
-        "en": "Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со спасением заложников, который стоял у истоков культовой франшизы. В рамках интервью независимому блогеру разработчик отметил, что стремительное развитие соревновательной сц"
+        "en": "\\CacheFixed various gaps in map.Fixed a wallbang spot on B site.Added a missing competitive CT spawn point.Added additional T spawn points.\\Reworked CSPlayerCamera:Renamed it to CustomPlayerCamera.Added GetPlayer, GetMode, SetMode, and SetFollowConfig.Deprecated IsEnabled, SetEnabled, and SetIsControllingAngles.Added a"
       },
-      "date": "09/19/2026",
-      "source": "Valve / Steam"
+      "date": "09/09/2026",
+      "source": "Counter-Strike / Steam",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556"
+    },
+    {
+      "category": {
+        "en": "OFFICIAL UPDATE"
+      },
+      "title": {
+        "en": "Counter-Strike 2 Update"
+      },
+      "summary": {
+        "en": "\\Added custom_hud_layout entity:custom_hud_layouts are the entry point for scripted maps to provide custom UI.Panel, Label, Image, and Button panel types are supported.Styling with css is supported.Events and client side scripting are not supported.Maintains state during tools mode reloads.Added cs_player_camera entity"
+      },
+      "date": "08/24/2026",
+      "source": "Counter-Strike / Steam",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851"
+    },
+    {
+      "category": {
+        "en": "OFFICIAL UPDATE"
+      },
+      "title": {
+        "en": "Counter-Strike 2 Update"
+      },
+      "summary": {
+        "en": "\\BoulderUpdated to the latest version from the Community Workshop (Update Notes)PoseidonUpdated to the latest version from the Community Workshop (Update Notes)\\Fixed a case where player speed was too high when moving against walls."
+      },
+      "date": "08/19/2026",
+      "source": "Counter-Strike / Steam",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932"
     }
   ],
   "ticker": [
@@ -2593,5 +2581,8 @@
       "date": "24/09/2026",
       "source": "CS2 NOTÍCIAS"
     }
-  ]
+  ],
+  "ranking_source": "https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/live/2026/standings_global_2026_09_07.md",
+  "ranking_date": "2026-09-07",
+  "pandascore_status": "missing_token"
 }
