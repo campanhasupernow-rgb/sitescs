@@ -21,10 +21,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Build static routes
+      - name: Build portal
         env:
           SITE_BASE: https://campanhasupernow-rgb.github.io/sitescs
         run: python scripts/build.py
+      - name: Validate portal
+        run: |
+          python scripts/validate.py
+          node --check assets/app.js
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
         with:
