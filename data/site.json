@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:13:55.207917+00:00",
+  "generated_at": "2026-09-24T20:17:26.021814+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -6017,8 +6017,8 @@
     },
     {
       "category": "DATA DESK",
-      "title": "INFINITE climbs 313 spots in Valve standings",
-      "summary": "INFINITE moved from #360 to #47. The comparison uses consecutive official Valve ranking snapshots.",
+      "title": "fnatic climbs 28 spots in Valve standings",
+      "summary": "fnatic moved from #61 to #33. The comparison uses consecutive official Valve ranking snapshots.",
       "date": "2026-09-07",
       "source": "Valve Regional Standings",
       "source_url": "https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/live/2026/standings_global_2026_09_07.md"
@@ -6084,8 +6084,8 @@
     },
     {
       "category": "DADOS",
-      "title": "INFINITE sobe 313 posições no ranking da Valve",
-      "summary": "INFINITE passou de #360 para #47. A comparação utiliza dois snapshots consecutivos do ranking oficial da Valve.",
+      "title": "fnatic sobe 28 posições no ranking da Valve",
+      "summary": "fnatic passou de #61 para #33. A comparação utiliza dois snapshots consecutivos do ranking oficial da Valve.",
       "date": "2026-09-07",
       "source": "Valve Regional Standings",
       "source_url": "https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/live/2026/standings_global_2026_09_07.md"
@@ -18975,5 +18975,5 @@
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895877"
     }
   ],
-  "content_hash": "b154fd32bf14ed18555b49e50935bea30a3a0e0e42921caf9ca976da72c0b3e0"
+  "content_hash": "ac31b556795399189b8b9a1ff849518c93b5480fdc34976fea8ffcb5c80f677f"
 }
