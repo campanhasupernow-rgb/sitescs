@@ -50,15 +50,26 @@ for lang in ("pt-BR", "en-US"):
     (ROOT / f"rankings-{k}.html").write_text(shell(title, body, lang), "utf-8")
 
     news_cards = []
-    for n in DATA.get("news", []):
-        s = slug(n["title"][k])
+    news_source = DATA.get("news_pt", []) if k == "pt" else DATA.get("news", [])
+    for n in news_source:
+        if k == "pt":
+            category = n.get("category", "")
+            title_value = n.get("title", "")
+            summary_value = n.get("summary", "")
+        else:
+            category = (n.get("category") or {}).get("en", "")
+            title_value = (n.get("title") or {}).get("en", "")
+            summary_value = (n.get("summary") or {}).get("en", "")
+        if not title_value:
+            continue
+        s = slug(title_value)
         href = f'news/{s}-{k}.html'
         news_cards.append(
-            f'<a class="card news" href="{href}"><span class="tag">{html.escape(n["category"][k])}</span><h3>{html.escape(n["title"][k])}</h3><p>{html.escape(n["summary"][k])}</p><div class="meta"><span>{html.escape(n["date"])}</span><span>{html.escape(n["source"])}</span></div></a>'
+            f'<a class="card news" href="{href}"><span class="tag">{html.escape(category)}</span><h3>{html.escape(title_value)}</h3><p>{html.escape(summary_value)}</p><div class="meta"><span>{html.escape(n.get("date",""))}</span><span>{html.escape(n.get("source",""))}</span></div></a>'
         )
-        article = f'<article class="card" style="padding:28px;max-width:900px;margin:auto"><span class="tag">{html.escape(n["category"][k])}</span><h1>{html.escape(n["title"][k])}</h1><div class="meta"><span>{html.escape(n["date"])}</span><span>{html.escape(n["source"])}</span></div><p>{html.escape(n["summary"][k])}</p></article>'
+        article = f'<article class="card" style="padding:28px;max-width:900px;margin:auto"><span class="tag">{html.escape(category)}</span><h1>{html.escape(title_value)}</h1><div class="meta"><span>{html.escape(n.get("date",""))}</span><span>{html.escape(n.get("source",""))}</span></div><p>{html.escape(summary_value)}</p></article>'
         (ROOT / "news" / f"{s}-{k}.html").write_text(
-            shell(n["title"][k], article, lang, n["summary"][k], prefix="../"),
+            shell(title_value, article, lang, summary_value, prefix="../"),
             "utf-8",
         )
     title = "Últimas notícias de CS2" if k == "pt" else "Latest CS2 News"
