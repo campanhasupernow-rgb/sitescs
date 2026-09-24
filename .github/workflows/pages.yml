@@ -1,3 +1,4 @@
+# deploy-revision: 2
 name: Deploy CS2 portals to GitHub Pages
 on:
   push:
