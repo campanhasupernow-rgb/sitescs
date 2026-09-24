@@ -7,8 +7,12 @@ ROOT=Path(__file__).resolve().parents[1]
 DATA=json.loads((ROOT/"data/site.json").read_text("utf-8"))
 SITE_BASE=os.getenv("SITE_BASE","https://campanhasupernow-rgb.github.io/sitescs").rstrip("/")
 CONTACT="campanhasupernow@gmail.com"
-for d in ("news","teams","players","tournaments","matches","about","privacy","editorial","advertise","contact","search","rosters"):
-    (ROOT/d).mkdir(parents=True,exist_ok=True)
+GENERATED_DIRS=("news","teams","players","tournaments","matches","about","privacy","editorial","advertise","contact","search","rosters")
+for d in GENERATED_DIRS:
+    folder=ROOT/d
+    folder.mkdir(parents=True,exist_ok=True)
+    for old_file in folder.glob("*.html"):
+        old_file.unlink()
 
 def esc(x): return html.escape(str(x or ""))
 def slug(s):
