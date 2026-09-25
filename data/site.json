@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T22:13:12.435596+00:00",
+  "generated_at": "2026-09-25T22:41:01.051146+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -6002,10 +6002,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Various gap fixes and clipping adjustments.\\Fixed some cases where loud reloads would persist while trying to stealth reload.\\Added sv_clantags_enabled option so custom servers can disable clan tags.The eggs of background players in main menu lobbies now rest in nests.",
-      "date": "2026-09-25",
+      "summary": "\\Added a better description of the rules to the loading screen.Adjusted rules for determining when to kick players due to team damage.Various clipping adjustments.\\Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.Fixed a case where it was possible to use silent reload to fire shotguns faster than normal.\\Fixed a case where the AK-47 inspect anima",
+      "date": "2026-09-24",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773"
     },
     {
       "category": "RANKINGS",
@@ -6070,9 +6070,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-09-25",
+      "date": "2026-09-24",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773"
     },
     {
       "category": "RANKING",
@@ -18913,14 +18913,6 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Various gap fixes and clipping adjustments.\\Fixed some cases where loud reloads would persist while trying to stealth reload.\\Added sv_clantags_enabled option so custom servers can disable clan tags.The eggs of background players in main menu lobbies now rest in nests.",
-      "date": "2026-09-25",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
       "summary": "\\Added a better description of the rules to the loading screen.Adjusted rules for determining when to kick players due to team damage.Various clipping adjustments.\\Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.Fixed a case where it was possible to use silent reload to fire shotguns faster than normal.\\Fixed a case where the AK-47 inspect anima",
       "date": "2026-09-24",
       "source": "Counter-Strike / Steam",
@@ -18973,7 +18965,15 @@
       "date": "2026-08-19",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
+      "summary": "\\FachwerkUpdated to the latest version from the Community Workshop (Update Notes)ShelterUpdated to the latest version from the Community Workshop (Update Notes)",
+      "date": "2026-08-12",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194"
     }
   ],
-  "content_hash": "e7c0fe0ae7211d6a8cfcc72dfce8074ccea50bc0344192a71886691f78db9560"
+  "content_hash": "6ce965136abb380ae8984a1ca18f8c43bb036c4c042359822ebcebf6e2c87caa"
 }
