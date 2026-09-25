@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:13:25.874220+00:00",
+  "generated_at": "2026-09-25T00:19:57.749763+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5981,7 +5981,7 @@
       "prize": 100000,
       "source": "HLTV event listings",
       "source_url": "https://www.hltv.org/events",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "name": "ESL Pro League Season 24",
@@ -18975,5 +18975,5 @@
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194"
     }
   ],
-  "content_hash": "6b7bc2c40085dee6187673f0521ad10f21c32fcbabaee71b08ad9dcbcb513f55"
+  "content_hash": "6ce965136abb380ae8984a1ca18f8c43bb036c4c042359822ebcebf6e2c87caa"
 }
