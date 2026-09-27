@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:11:52.651284+00:00",
+  "generated_at": "2026-09-27T00:19:43.554063+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5955,20 +5955,6 @@
     }
   ],
   "events": [
-    {
-      "name": "Stake Pulse Beat II",
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-26",
-      "dates": {
-        "pt": "21 a 26 de setembro",
-        "en": "Sep 21–26"
-      },
-      "location": "Nordics / BME Studio",
-      "prize": 60000,
-      "source": "Stake",
-      "source_url": "https://stake.com/sponsorships/stake-pulse",
-      "status": "live"
-    },
     {
       "name": "1win Private Club Season 1",
       "start_date": "2026-09-25",
@@ -18975,5 +18961,5 @@
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932"
     }
   ],
-  "content_hash": "e7c0fe0ae7211d6a8cfcc72dfce8074ccea50bc0344192a71886691f78db9560"
+  "content_hash": "95d53836f9e6354e26fecb8f42b9fc0d63755b6b3f0e7a14fc8085ebcac785f0"
 }
