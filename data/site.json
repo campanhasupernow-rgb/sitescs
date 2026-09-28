@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:19:43.554063+00:00",
+  "generated_at": "2026-09-28T22:40:57.543028+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5988,10 +5988,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Various gap fixes and clipping adjustments.\\Fixed some cases where loud reloads would persist while trying to stealth reload.\\Added sv_clantags_enabled option so custom servers can disable clan tags.The eggs of background players in main menu lobbies now rest in nests.",
-      "date": "2026-09-25",
+      "summary": "\\Fixed pixel-gaps in various Rush rooms.Clipping adjustments in T/CT Castle rooms.",
+      "date": "2026-09-28",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642"
     },
     {
       "category": "RANKINGS",
@@ -6056,9 +6056,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642"
     },
     {
       "category": "RANKING",
@@ -18899,6 +18899,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\Fixed pixel-gaps in various Rush rooms.Clipping adjustments in T/CT Castle rooms.",
+      "date": "2026-09-28",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Various gap fixes and clipping adjustments.\\Fixed some cases where loud reloads would persist while trying to stealth reload.\\Added sv_clantags_enabled option so custom servers can disable clan tags.The eggs of background players in main menu lobbies now rest in nests.",
       "date": "2026-09-25",
       "source": "Counter-Strike / Steam",
@@ -18951,15 +18959,7 @@
       "date": "2026-08-24",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\BoulderUpdated to the latest version from the Community Workshop (Update Notes)PoseidonUpdated to the latest version from the Community Workshop (Update Notes)\\Fixed a case where player speed was too high when moving against walls.",
-      "date": "2026-08-19",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932"
     }
   ],
-  "content_hash": "95d53836f9e6354e26fecb8f42b9fc0d63755b6b3f0e7a14fc8085ebcac785f0"
+  "content_hash": "ce05aeb0d6038cefd3a4ed975e3cce2bc4cf0882292eb6a640e708845b3008ae"
 }
