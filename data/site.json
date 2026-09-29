@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:41:52.230430+00:00",
+  "generated_at": "2026-09-29T00:19:22.283484+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5955,20 +5955,6 @@
     }
   ],
   "events": [
-    {
-      "name": "1win Private Club Season 1",
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-28",
-      "dates": {
-        "pt": "25 a 28 de setembro",
-        "en": "Sep 25–28"
-      },
-      "location": "Belgrade, Serbia",
-      "prize": 100000,
-      "source": "HLTV event listings",
-      "source_url": "https://www.hltv.org/events",
-      "status": "live"
-    },
     {
       "name": "ESL Pro League Season 24",
       "start_date": "2026-10-03",
@@ -18961,5 +18947,5 @@
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851"
     }
   ],
-  "content_hash": "ce05aeb0d6038cefd3a4ed975e3cce2bc4cf0882292eb6a640e708845b3008ae"
+  "content_hash": "5aec3bd8b659cda3875ec40dbd3f6dd7bb0eea66bb8a9bfa494916dbdd058576"
 }
