@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:42:00.703789+00:00",
+  "generated_at": "2026-10-02T22:43:25.343124+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5974,10 +5974,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Various clipping fixes in Rush maps\\Fixed visualization of weapon inaccuracy + spreadAdded crosshair outline color optionAdded a new style \"Static Quadrant\"Enabled grenade crosshairs in freeze time for insta-smokes (just hold any grenade attack button)Allowed negative gaps for classic dynamic crosshair styleChanged the classic dynamic crosshair alpha increments to 0.01Scope dot scale and color preferences are now in",
-      "date": "2026-09-30",
+      "summary": "\\Agents now wear their equipped gloves during the photobooth photography sessions and in buy menuFixed grenade crosshair rendering when crosshair thickness is set to 3 pixelsFixed formatting of titles in commend and report dialogsImproved lighting in the Warehouse mapUpdated workshop convars whitelist with the new crosshair settingsStability improvements",
+      "date": "2026-10-02",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875"
     },
     {
       "category": "RANKINGS",
@@ -6042,9 +6042,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-09-30",
+      "date": "2026-10-02",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875"
     },
     {
       "category": "RANKING",
@@ -18885,6 +18885,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\Agents now wear their equipped gloves during the photobooth photography sessions and in buy menuFixed grenade crosshair rendering when crosshair thickness is set to 3 pixelsFixed formatting of titles in commend and report dialogsImproved lighting in the Warehouse mapUpdated workshop convars whitelist with the new crosshair settingsStability improvements",
+      "date": "2026-10-02",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Various clipping fixes in Rush maps\\Fixed visualization of weapon inaccuracy + spreadAdded crosshair outline color optionAdded a new style \"Static Quadrant\"Enabled grenade crosshairs in freeze time for insta-smokes (just hold any grenade attack button)Allowed negative gaps for classic dynamic crosshair styleChanged the classic dynamic crosshair alpha increments to 0.01Scope dot scale and color preferences are now in",
       "date": "2026-09-30",
       "source": "Counter-Strike / Steam",
@@ -18937,15 +18945,7 @@
       "date": "2026-09-22",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\CacheFixed various gaps in map.Fixed a wallbang spot on B site.Added a missing competitive CT spawn point.Added additional T spawn points.\\Reworked CSPlayerCamera:Renamed it to CustomPlayerCamera.Added GetPlayer, GetMode, SetMode, and SetFollowConfig.Deprecated IsEnabled, SetEnabled, and SetIsControllingAngles.Added an 'observable' property to custom_hud_layout that controls whether an observer sees the UI as the sp",
-      "date": "2026-09-09",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556"
     }
   ],
-  "content_hash": "9e092e046b8d11aa5123a82b37e6b914f12a54d259b5efb19713753893978b06"
+  "content_hash": "d4acc129c0694bac044171f1f710b425c494cdae7aa046499fb575a2cb2a29a8"
 }
