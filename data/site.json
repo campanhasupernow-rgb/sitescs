@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:47:32.246271+00:00",
+  "generated_at": "2026-10-05T23:41:06.579012+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5661,10 +5661,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Agents now wear their equipped gloves during the photobooth photography sessions and in buy menuFixed grenade crosshair rendering when crosshair thickness is set to 3 pixelsFixed formatting of titles in commend and report dialogsImproved lighting in the Warehouse mapUpdated workshop convars whitelist with the new crosshair settingsStability improvements",
-      "date": "2026-10-02",
+      "summary": "\\Pet photobook pages now have localized text art.Added play menu buttons to manage downloaded Workshop maps.Adjusted VK shader cache extension flags.",
+      "date": "2026-10-05",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875"
     },
     {
       "category": "RANKINGS",
@@ -5729,9 +5729,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-10-02",
+      "date": "2026-10-05",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875"
     },
     {
       "category": "RANKING",
@@ -17812,6 +17812,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\Pet photobook pages now have localized text art.Added play menu buttons to manage downloaded Workshop maps.Adjusted VK shader cache extension flags.",
+      "date": "2026-10-05",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Agents now wear their equipped gloves during the photobooth photography sessions and in buy menuFixed grenade crosshair rendering when crosshair thickness is set to 3 pixelsFixed formatting of titles in commend and report dialogsImproved lighting in the Warehouse mapUpdated workshop convars whitelist with the new crosshair settingsStability improvements",
       "date": "2026-10-02",
       "source": "Counter-Strike / Steam",
@@ -17864,15 +17872,7 @@
       "date": "2026-09-22",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\Updated the map selection process to give players more opportunities to play maps they've been learning.Map selection process:Team 1 picks one mapTeam 2 picks two mapsTeam 1 picks a final map. One of the four maps will be randomly selected and the match will begin.\\Rush is a fast-paced queued 3v3 game mode. Players battle through a series of battle arenas to reach the opponent's castle and win the match.Battle arena",
-      "date": "2026-09-22",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924"
     }
   ],
-  "content_hash": "930ded4d7781b0b19359d764141afe5267602c226fc4dace4139bff528b09d91"
+  "content_hash": "0cf0041a781c57b6af73a5e3ea83b29601cebe66ae541bf647d8b0fc08bd109b"
 }
