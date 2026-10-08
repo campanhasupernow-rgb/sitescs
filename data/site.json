@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:41:06.579012+00:00",
+  "generated_at": "2026-10-08T22:45:49.459586+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5661,10 +5661,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Pet photobook pages now have localized text art.Added play menu buttons to manage downloaded Workshop maps.Adjusted VK shader cache extension flags.",
-      "date": "2026-10-05",
+      "summary": "\\Added a ping icon for dropped defuse kitsReduced the time for AUG reload by half secondFixed the sound event during silent reload for Desert EagleFixed a case of buzzing soundscape sounds during demo playbackClipping fixes for Rush mapsLocalization updatesStability updates",
+      "date": "2026-10-08",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597"
     },
     {
       "category": "RANKINGS",
@@ -5729,9 +5729,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-10-05",
+      "date": "2026-10-08",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597"
     },
     {
       "category": "RANKING",
@@ -17812,6 +17812,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\Added a ping icon for dropped defuse kitsReduced the time for AUG reload by half secondFixed the sound event during silent reload for Desert EagleFixed a case of buzzing soundscape sounds during demo playbackClipping fixes for Rush mapsLocalization updatesStability updates",
+      "date": "2026-10-08",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Pet photobook pages now have localized text art.Added play menu buttons to manage downloaded Workshop maps.Adjusted VK shader cache extension flags.",
       "date": "2026-10-05",
       "source": "Counter-Strike / Steam",
@@ -17864,15 +17872,7 @@
       "date": "2026-09-23",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Rush Hour",
-      "summary": "Put your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match! Make the most of your limited budget and precious time to clear the objective. Control the tower when you eliminate the enemy team (or time expires) to win the round. https://cla",
-      "date": "2026-09-22",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926"
     }
   ],
-  "content_hash": "0cf0041a781c57b6af73a5e3ea83b29601cebe66ae541bf647d8b0fc08bd109b"
+  "content_hash": "7c81236c2283ac4a6bc0e26c369eec43bd5908d6ed138dc8e77afba08de28524"
 }
