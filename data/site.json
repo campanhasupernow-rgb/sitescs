@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:45:49.459586+00:00",
+  "generated_at": "2026-10-12T00:23:01.943661+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5641,22 +5641,7 @@
       "rank_delta": 0
     }
   ],
-  "events": [
-    {
-      "name": "ESL Pro League Season 24",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-11",
-      "dates": {
-        "pt": "3 a 11 de outubro",
-        "en": "Oct 3–11"
-      },
-      "location": "Katowice, Poland",
-      "prize": 1000000,
-      "source": "ESL / event listings",
-      "source_url": "https://www.hltv.org/events/8244/esl-pro-league-season-24",
-      "status": "live"
-    }
-  ],
+  "events": [],
   "news": [
     {
       "category": "OFFICIAL UPDATE",
@@ -17874,5 +17859,5 @@
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795"
     }
   ],
-  "content_hash": "7c81236c2283ac4a6bc0e26c369eec43bd5908d6ed138dc8e77afba08de28524"
+  "content_hash": "73cebedf585d8cbfbc1a42be3a73b42693e197b93fabc4cdd433d385b0f76121"
 }
