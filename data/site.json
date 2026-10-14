@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:23:01.943661+00:00",
+  "generated_at": "2026-10-14T23:24:16.645142+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5646,10 +5646,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Added a ping icon for dropped defuse kitsReduced the time for AUG reload by half secondFixed the sound event during silent reload for Desert EagleFixed a case of buzzing soundscape sounds during demo playbackClipping fixes for Rush mapsLocalization updatesStability updates",
-      "date": "2026-10-08",
+      "summary": "\\Demo/Replay viewer improvements:Added a progress bar for demo/replay downloadsCamera controls now use click-and-drag schemeFree and chase camera are usable during a paused demoFixed some minor issues when seeking to a different position in the demo file\\Round backup files now require the game server startup flag \"-allow_round_backup_files\"Updated AUG reload animations for standing and crouch reloads to better match ",
+      "date": "2026-10-14",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829"
     },
     {
       "category": "RANKINGS",
@@ -5714,9 +5714,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-10-08",
+      "date": "2026-10-14",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829"
     },
     {
       "category": "RANKING",
@@ -17797,6 +17797,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\Demo/Replay viewer improvements:Added a progress bar for demo/replay downloadsCamera controls now use click-and-drag schemeFree and chase camera are usable during a paused demoFixed some minor issues when seeking to a different position in the demo file\\Round backup files now require the game server startup flag \"-allow_round_backup_files\"Updated AUG reload animations for standing and crouch reloads to better match ",
+      "date": "2026-10-14",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Added a ping icon for dropped defuse kitsReduced the time for AUG reload by half secondFixed the sound event during silent reload for Desert EagleFixed a case of buzzing soundscape sounds during demo playbackClipping fixes for Rush mapsLocalization updatesStability updates",
       "date": "2026-10-08",
       "source": "Counter-Strike / Steam",
@@ -17849,15 +17857,7 @@
       "date": "2026-09-24",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.Warmup time once all players have connected, freeze time, and technical timeout time are all reduced.Various gap fixes and clipping adjustments.\\Some additional information abou",
-      "date": "2026-09-23",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795"
     }
   ],
-  "content_hash": "73cebedf585d8cbfbc1a42be3a73b42693e197b93fabc4cdd433d385b0f76121"
+  "content_hash": "a417556778ee1d733925eb5a18cba66b33eb5a3803842f79b43a9c90605308e4"
 }
