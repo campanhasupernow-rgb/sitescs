@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:24:16.645142+00:00",
+  "generated_at": "2026-10-22T23:24:11.445659+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5646,10 +5646,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Demo/Replay viewer improvements:Added a progress bar for demo/replay downloadsCamera controls now use click-and-drag schemeFree and chase camera are usable during a paused demoFixed some minor issues when seeking to a different position in the demo file\\Round backup files now require the game server startup flag \"-allow_round_backup_files\"Updated AUG reload animations for standing and crouch reloads to better match ",
-      "date": "2026-10-14",
+      "summary": "\\Added Instance.PrecacheReturns a CSPrecache objectAdded CSPrecache.IsServerLoadingAdded CSPrecache.IsServerLoadedAdded CSPrecache.IsClientLoadingAdded CSPrecache.IsClientLoadedAdded CSPrecache.IsLoadedForAllAdded CSPrecache.ReleaseAdded CSHostageAdded CSHostage.IsBeingPickedUpAdded CSHostage.IsBeingCarriedAdded CSHostage.IsRescuedAdded CSHostage.GetRescuerAdded CSHostage.GetPickUpStartTimeAdded CSHostage.GetPickUpFi",
+      "date": "2026-10-22",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398"
     },
     {
       "category": "RANKINGS",
@@ -5714,9 +5714,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-10-14",
+      "date": "2026-10-22",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398"
     },
     {
       "category": "RANKING",
@@ -17797,6 +17797,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\Added Instance.PrecacheReturns a CSPrecache objectAdded CSPrecache.IsServerLoadingAdded CSPrecache.IsServerLoadedAdded CSPrecache.IsClientLoadingAdded CSPrecache.IsClientLoadedAdded CSPrecache.IsLoadedForAllAdded CSPrecache.ReleaseAdded CSHostageAdded CSHostage.IsBeingPickedUpAdded CSHostage.IsBeingCarriedAdded CSHostage.IsRescuedAdded CSHostage.GetRescuerAdded CSHostage.GetPickUpStartTimeAdded CSHostage.GetPickUpFi",
+      "date": "2026-10-22",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Demo/Replay viewer improvements:Added a progress bar for demo/replay downloadsCamera controls now use click-and-drag schemeFree and chase camera are usable during a paused demoFixed some minor issues when seeking to a different position in the demo file\\Round backup files now require the game server startup flag \"-allow_round_backup_files\"Updated AUG reload animations for standing and crouch reloads to better match ",
       "date": "2026-10-14",
       "source": "Counter-Strike / Steam",
@@ -17849,15 +17857,7 @@
       "date": "2026-09-25",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\Added a better description of the rules to the loading screen.Adjusted rules for determining when to kick players due to team damage.Various clipping adjustments.\\Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.Fixed a case where it was possible to use silent reload to fire shotguns faster than normal.\\Fixed a case where the AK-47 inspect anima",
-      "date": "2026-09-24",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773"
     }
   ],
-  "content_hash": "a417556778ee1d733925eb5a18cba66b33eb5a3803842f79b43a9c90605308e4"
+  "content_hash": "68f1816111819faadc1f9e9f0f90760beb7c1f1708d77610fbe0d4839a6b2ba1"
 }
