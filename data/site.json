@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:24:11.445659+00:00",
+  "generated_at": "2026-10-28T23:07:20.531122+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5646,10 +5646,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Added Instance.PrecacheReturns a CSPrecache objectAdded CSPrecache.IsServerLoadingAdded CSPrecache.IsServerLoadedAdded CSPrecache.IsClientLoadingAdded CSPrecache.IsClientLoadedAdded CSPrecache.IsLoadedForAllAdded CSPrecache.ReleaseAdded CSHostageAdded CSHostage.IsBeingPickedUpAdded CSHostage.IsBeingCarriedAdded CSHostage.IsRescuedAdded CSHostage.GetRescuerAdded CSHostage.GetPickUpStartTimeAdded CSHostage.GetPickUpFi",
-      "date": "2026-10-22",
+      "summary": "\\Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button again.Fixed various cases where the first sound of a reload was audible irrespective if a user requested a silent reload or not.\\Fixed a bug where liquid could render as black",
+      "date": "2026-10-28",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686"
     },
     {
       "category": "RANKINGS",
@@ -5714,9 +5714,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-10-22",
+      "date": "2026-10-28",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686"
     },
     {
       "category": "RANKING",
@@ -17797,6 +17797,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button again.Fixed various cases where the first sound of a reload was audible irrespective if a user requested a silent reload or not.\\Fixed a bug where liquid could render as black",
+      "date": "2026-10-28",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Added Instance.PrecacheReturns a CSPrecache objectAdded CSPrecache.IsServerLoadingAdded CSPrecache.IsServerLoadedAdded CSPrecache.IsClientLoadingAdded CSPrecache.IsClientLoadedAdded CSPrecache.IsLoadedForAllAdded CSPrecache.ReleaseAdded CSHostageAdded CSHostage.IsBeingPickedUpAdded CSHostage.IsBeingCarriedAdded CSHostage.IsRescuedAdded CSHostage.GetRescuerAdded CSHostage.GetPickUpStartTimeAdded CSHostage.GetPickUpFi",
       "date": "2026-10-22",
       "source": "Counter-Strike / Steam",
@@ -17849,15 +17857,7 @@
       "date": "2026-09-28",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\Various gap fixes and clipping adjustments.\\Fixed some cases where loud reloads would persist while trying to stealth reload.\\Added sv_clantags_enabled option so custom servers can disable clan tags.The eggs of background players in main menu lobbies now rest in nests.",
-      "date": "2026-09-25",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015"
     }
   ],
-  "content_hash": "68f1816111819faadc1f9e9f0f90760beb7c1f1708d77610fbe0d4839a6b2ba1"
+  "content_hash": "86e95775d778fbc56a6086950195c0cd0dc033189f299fecffc51598c0043cd0"
 }
