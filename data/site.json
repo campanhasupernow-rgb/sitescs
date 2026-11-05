@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T23:59:41.435387+00:00",
+  "generated_at": "2026-11-05T02:41:00.545220+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5579,10 +5579,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button again.Fixed various cases where the first sound of a reload was audible irrespective if a user requested a silent reload or not.\\Fixed a bug where liquid could render as black",
-      "date": "2026-10-28",
+      "summary": "\\Bomb defusal in Retakes mode will now instantly finish when there is sufficient time remaining in the round and no active utility remains to prevent the defuse.Reduced freeze time and round restart delay in Retakes mode.Pinging pet chickens during freeze time will request a trick from them.Pet chicken names are no longer displayed when customized item text game option is set to hidden.\\Instance.Precache now accepts ",
+      "date": "2026-11-05",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353"
     },
     {
       "category": "RANKINGS",
@@ -5647,9 +5647,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-10-28",
+      "date": "2026-11-05",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353"
     },
     {
       "category": "RANKING",
@@ -17381,6 +17381,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\Bomb defusal in Retakes mode will now instantly finish when there is sufficient time remaining in the round and no active utility remains to prevent the defuse.Reduced freeze time and round restart delay in Retakes mode.Pinging pet chickens during freeze time will request a trick from them.Pet chicken names are no longer displayed when customized item text game option is set to hidden.\\Instance.Precache now accepts ",
+      "date": "2026-11-05",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button again.Fixed various cases where the first sound of a reload was audible irrespective if a user requested a silent reload or not.\\Fixed a bug where liquid could render as black",
       "date": "2026-10-28",
       "source": "Counter-Strike / Steam",
@@ -17433,15 +17441,7 @@
       "date": "2026-09-30",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\Fixed pixel-gaps in various Rush rooms.Clipping adjustments in T/CT Castle rooms.",
-      "date": "2026-09-28",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642"
     }
   ],
-  "content_hash": "3ddfa7a322166b04063d2dbbe6c145b0ce96010edffc33c5bc6f76b7370684d9"
+  "content_hash": "f7d6ed33fd4a26d1d0bdb008238c410f48aa0be7c71b2f693833c9a738d5bd3f"
 }
