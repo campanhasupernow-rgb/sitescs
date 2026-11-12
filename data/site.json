@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:41:00.545220+00:00",
+  "generated_at": "2026-11-12T00:14:54.277481+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5579,10 +5579,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Bomb defusal in Retakes mode will now instantly finish when there is sufficient time remaining in the round and no active utility remains to prevent the defuse.Reduced freeze time and round restart delay in Retakes mode.Pinging pet chickens during freeze time will request a trick from them.Pet chicken names are no longer displayed when customized item text game option is set to hidden.\\Instance.Precache now accepts ",
-      "date": "2026-11-05",
+      "summary": "\\Fixed some cases of popping and glitching when switching weapons and reloading at extreme angles\\Fixed bot pathing issue in Retakes game modeFixed a rendering hang on DX11Improved avx / avx512 instruction set detectionMiscellaneous stability and performance improvements",
+      "date": "2026-11-11",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180746"
     },
     {
       "category": "RANKINGS",
@@ -5647,9 +5647,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-11-05",
+      "date": "2026-11-11",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180746"
     },
     {
       "category": "RANKING",
@@ -17381,6 +17381,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\Fixed some cases of popping and glitching when switching weapons and reloading at extreme angles\\Fixed bot pathing issue in Retakes game modeFixed a rendering hang on DX11Improved avx / avx512 instruction set detectionMiscellaneous stability and performance improvements",
+      "date": "2026-11-11",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180746"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Bomb defusal in Retakes mode will now instantly finish when there is sufficient time remaining in the round and no active utility remains to prevent the defuse.Reduced freeze time and round restart delay in Retakes mode.Pinging pet chickens during freeze time will request a trick from them.Pet chicken names are no longer displayed when customized item text game option is set to hidden.\\Instance.Precache now accepts ",
       "date": "2026-11-05",
       "source": "Counter-Strike / Steam",
@@ -17433,15 +17441,7 @@
       "date": "2026-10-02",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\Various clipping fixes in Rush maps\\Fixed visualization of weapon inaccuracy + spreadAdded crosshair outline color optionAdded a new style \"Static Quadrant\"Enabled grenade crosshairs in freeze time for insta-smokes (just hold any grenade attack button)Allowed negative gaps for classic dynamic crosshair styleChanged the classic dynamic crosshair alpha increments to 0.01Scope dot scale and color preferences are now in",
-      "date": "2026-09-30",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136"
     }
   ],
-  "content_hash": "f7d6ed33fd4a26d1d0bdb008238c410f48aa0be7c71b2f693833c9a738d5bd3f"
+  "content_hash": "70209b5cc0841cde851c20e37c83b67bb5d7aa86456df990753d9ac89dbcdb01"
 }
