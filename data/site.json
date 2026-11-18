@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:14:54.277481+00:00",
+  "generated_at": "2026-11-18T03:03:47.700179+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5579,10 +5579,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\Fixed some cases of popping and glitching when switching weapons and reloading at extreme angles\\Fixed bot pathing issue in Retakes game modeFixed a rendering hang on DX11Improved avx / avx512 instruction set detectionMiscellaneous stability and performance improvements",
-      "date": "2026-11-11",
+      "summary": "The PGL Singapore 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge, and more. Purchase a Singapore 2026 Viewer Pass to receive an upgradable Singapore 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challeng",
+      "date": "2026-11-17",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180746"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110421976"
     },
     {
       "category": "RANKINGS",
@@ -5647,9 +5647,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-11-11",
+      "date": "2026-11-17",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180746"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110421976"
     },
     {
       "category": "RANKING",
@@ -17381,6 +17381,22 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "The PGL Singapore 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge, and more. Purchase a Singapore 2026 Viewer Pass to receive an upgradable Singapore 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challeng",
+      "date": "2026-11-17",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110421976"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "The Cobbled Road to Singapore",
+      "summary": "Today's update features the return of a legendary map. Welcome back, Cobblestone! Cobblestone veterans will feel at home in familiar locations like drop, chicken coop, and stables. But don't get cold feet, the map has undergone changes and features new pathways and locations for players to master. And it's cold now, so watch your crunchy footsteps as you trudge through the snow to the bombsites. Cobblestone can be fo",
+      "date": "2026-11-17",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110421973"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\Fixed some cases of popping and glitching when switching weapons and reloading at extreme angles\\Fixed bot pathing issue in Retakes game modeFixed a rendering hang on DX11Improved avx / avx512 instruction set detectionMiscellaneous stability and performance improvements",
       "date": "2026-11-11",
       "source": "Counter-Strike / Steam",
@@ -17425,23 +17441,7 @@
       "date": "2026-10-08",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\Pet photobook pages now have localized text art.Added play menu buttons to manage downloaded Workshop maps.Adjusted VK shader cache extension flags.",
-      "date": "2026-10-05",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\Agents now wear their equipped gloves during the photobooth photography sessions and in buy menuFixed grenade crosshair rendering when crosshair thickness is set to 3 pixelsFixed formatting of titles in commend and report dialogsImproved lighting in the Warehouse mapUpdated workshop convars whitelist with the new crosshair settingsStability improvements",
-      "date": "2026-10-02",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875"
     }
   ],
-  "content_hash": "70209b5cc0841cde851c20e37c83b67bb5d7aa86456df990753d9ac89dbcdb01"
+  "content_hash": "f8fb25e93a72dedb0ad02e428f48ae077cffa362570e5ada8f48761e647cf6b9"
 }
