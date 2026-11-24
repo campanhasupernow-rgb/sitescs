@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T02:22:18.569700+00:00",
+  "generated_at": "2026-11-24T00:13:03.696911+00:00",
   "rankings": [
     {
       "rank": 1,
@@ -5579,10 +5579,10 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
-      "summary": "\\CobblestoneFixed some walkable ledges in long AFixed map issue that was loading an empty skyboxFixed an audio blocker issue by mid/AAdded a grenade clip to assault van bumperFixed various gaps in the worldInfernoFixed grenade and Molotov exploit spot from church to dark on bombsite B.\\Updated slow reload animation for the AWPOptimized ground burn decals under smoke on very high graphics settings\\Players in Switzerla",
-      "date": "2026-11-19",
+      "summary": "\\CobblestoneFixed a spot in princess tower where the bomb could be thrown out of reachFixed some bad wall bang locationsFixes for smoother player movement throughout the levelFixed some bad boosts and walkable ledgesFixed a location at B where grenades could fall through the worldFixed various gaps in the world\\Fixed third-person silent reload animations to play at correct speedVarious stability improvements",
+      "date": "2026-11-23",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426557"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110444052"
     },
     {
       "category": "RANKINGS",
@@ -5647,9 +5647,9 @@
       "category": "ATUALIZAÇÃO OFICIAL",
       "title": "Valve publica atualização de CS2: Counter-Strike 2 Update",
       "summary": "A Valve publicou uma nova comunicação oficial de Counter-Strike 2. O CS2 NOTÍCIAS aponta para a fonte original e mantém a cobertura de atualizações separada dos conteúdos de análise e dados.",
-      "date": "2026-11-19",
+      "date": "2026-11-23",
       "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426557"
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110444052"
     },
     {
       "category": "RANKING",
@@ -17381,6 +17381,14 @@
     {
       "category": "OFFICIAL UPDATE",
       "title": "Counter-Strike 2 Update",
+      "summary": "\\CobblestoneFixed a spot in princess tower where the bomb could be thrown out of reachFixed some bad wall bang locationsFixes for smoother player movement throughout the levelFixed some bad boosts and walkable ledgesFixed a location at B where grenades could fall through the worldFixed various gaps in the world\\Fixed third-person silent reload animations to play at correct speedVarious stability improvements",
+      "date": "2026-11-23",
+      "source": "Counter-Strike / Steam",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110444052"
+    },
+    {
+      "category": "OFFICIAL UPDATE",
+      "title": "Counter-Strike 2 Update",
       "summary": "\\CobblestoneFixed some walkable ledges in long AFixed map issue that was loading an empty skyboxFixed an audio blocker issue by mid/AAdded a grenade clip to assault van bumperFixed various gaps in the worldInfernoFixed grenade and Molotov exploit spot from church to dark on bombsite B.\\Updated slow reload animation for the AWPOptimized ground burn decals under smoke on very high graphics settings\\Players in Switzerla",
       "date": "2026-11-19",
       "source": "Counter-Strike / Steam",
@@ -17433,15 +17441,7 @@
       "date": "2026-10-22",
       "source": "Counter-Strike / Steam",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398"
-    },
-    {
-      "category": "OFFICIAL UPDATE",
-      "title": "Counter-Strike 2 Update",
-      "summary": "\\Demo/Replay viewer improvements:Added a progress bar for demo/replay downloadsCamera controls now use click-and-drag schemeFree and chase camera are usable during a paused demoFixed some minor issues when seeking to a different position in the demo file\\Round backup files now require the game server startup flag \"-allow_round_backup_files\"Updated AUG reload animations for standing and crouch reloads to better match ",
-      "date": "2026-10-14",
-      "source": "Counter-Strike / Steam",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829"
     }
   ],
-  "content_hash": "2b6c2237a0323cdbe62ab6439fc3b0670a80506637c996834d9067500e6beca4"
+  "content_hash": "15b1b8f962136e025c45348d000fd0df9be40f6d9e780aebd17e40de78b647a0"
 }
